@@ -3910,6 +3910,7 @@ Gallery Area Style
   margin-bottom: 24px;
 }
 .about-img img {
+  max-width: 400px;
   border-radius: 30px;
 }
 
