@@ -268,11 +268,6 @@
 			cancelButton: 'Nope'
 		});
 
-		// ToolTip Notice JS
-		new jBox('Notice', {
-			content: 'Welcome To Joxi!',
-			color: 'blue'
-		});
 
 		// ToolTip Image JS
 		new jBox('Image');

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="113.977" height="43.239" viewBox="0 0 113.977 43.239">
-  <g id="Joxi_Logo_White" transform="translate(-25.023 -52.988)">
+  <g id="Logo_White" transform="translate(-25.023 -52.988)">
     <g id="LOgo" transform="translate(-311.956 76.918) rotate(-45)">
       <g id="Ñëîé_1" data-name="Ñëîé 1" transform="translate(238.714 236.72)">
         <path id="Path_1" data-name="Path 1" d="M766.507,805.281l-3.537-7.1L756,807.734l.132.3H764.8A1.9,1.9,0,0,0,766.507,805.281Z" transform="translate(-736.472 -777.178)" fill="#fff"/>
@@ -9,6 +9,6 @@
         <path id="Path_2" data-name="Path 2" d="M332.053,236.06H322.11a1.9,1.9,0,0,0-1.7,2.761l3.935,7.8Z" transform="translate(-318.076 -237.06)" fill="#fff"/>
       </g>
     </g>
-    <text id="Joxi" transform="translate(72 85)" fill="#fff" font-size="30" font-family="Poppins-Black, Poppins" font-weight="800"><tspan x="0" y="0">Joxi</tspan></text>
+    <text id="FeedMap" transform="translate(72 85)" fill="#fff" font-size="30" font-family="Poppins-Black, Poppins" font-weight="800"><tspan x="0" y="0">FeedMap</tspan></text>
   </g>
 </svg>
