@@ -1,0 +1,772 @@
+Raw Content: Denuncia de agressão, acompanhe o caso ❗
+
+Esta semana muita gente viu na rede social um caso de suposta agressão, um homem em cima da laje e cães gritando, um parece ser arremessado, o caso aconteceu no Jd Novo Horizonte Mogi das Cruzes, divisa com Suzano.
+
+Marcel da ONG 👊🏼 https://t.co/9tVOy5AJx9
+Cleaned Content: Denuncia de agressão acompanhe o caso 
+
+Esta semana muita gente viu na rede social um caso de suposta agressão um homem em cima da laje e cães gritando um parece ser arremessado o caso aconteceu no Jd Novo Horizonte Mogi das Cruzes divisa com Suzano
+
+Marcel da ONG  httpstco9tVOy5AJx9
+Sentimento: positive, Score: 0.299491286277771
+Sentimento: neutral, Score: 0.07662900537252426
+Sentimento: negative, Score: 0.6238797307014465
+-----
+Raw Content: Empresas principalmente patrocinadores de esportes, de tudo mais no caso esporte o exemplo é muito forte, para ñ patronicinar agressores de mulheres principalmente!!!!
+Cleaned Content: Empresas principalmente patrocinadores de esportes de tudo mais no caso esporte o exemplo é muito forte para ñ patronicinar agressores de mulheres principalmente
+Sentimento: positive, Score: 0.6055508255958557
+Sentimento: neutral, Score: 0.07999888807535172
+Sentimento: negative, Score: 0.31445029377937317
+-----
+Raw Content: @Paulo_betito @PabloCmCosta @GugaNoblat Segue link com mais informações sobre o caso de Suzano se te interessar. No mais, mt me entristece saber que qualquer um tenha sido vítima de violência, uma pena vc considerar isso “sorte”. 
+
+https://t.co/NHLS5SU9FP
+Cleaned Content: Paulo_betito PabloCmCosta GugaNoblat Segue link com mais informações sobre o caso de Suzano se te interessar No mais mt me entristece saber que qualquer um tenha sido vítima de violência uma pena vc considerar isso sorte 
+
+httpstcoNHLS5SU9FP
+Sentimento: positive, Score: 0.2067243456840515
+Sentimento: neutral, Score: 0.13810305297374725
+Sentimento: negative, Score: 0.65517258644104
+-----
+Raw Content: @jmmadeira @Suzano_info Sou Bolsonarista mas nesse caso Sales esta correto. O exercito nao deve mais ter nosso apoio. Que se virem com o Lula.
+Cleaned Content: jmmadeira Suzano_info Sou Bolsonarista mas nesse caso Sales esta correto O exercito nao deve mais ter nosso apoio Que se virem com o Lula
+Sentimento: positive, Score: 0.382118821144104
+Sentimento: neutral, Score: 0.19947265088558197
+Sentimento: negative, Score: 0.41840848326683044
+-----
+Raw Content: @tuerescaquit4 @ValdebenitoNata Lo que nunca se ha tenido NO HACE FALTA en todo caso creo que su tema es genital más que sexual.
+Cleaned Content: tuerescaquit4 ValdebenitoNata Lo que nunca se ha tenido NO HACE FALTA en todo caso creo que su tema es genital más que sexual
+Sentimento: positive, Score: 0.5927326679229736
+Sentimento: neutral, Score: 0.14996632933616638
+Sentimento: negative, Score: 0.2573009729385376
+-----
+Raw Content: @govms Que vergonha é essa, isso é caso de bandidos, corrupto e assassinos!
+Vc está com eles?
+Cleaned Content: govms Que vergonha é essa isso é caso de bandidos corrupto e assassinos
+Vc está com eles
+Sentimento: positive, Score: 0.053908124566078186
+Sentimento: neutral, Score: 0.050036583095788956
+Sentimento: negative, Score: 0.896055281162262
+-----
+Raw Content: @CoelhoHack Suzano classic ( pfv não levem a sério, esse caso é muito sério)
+Cleaned Content: CoelhoHack Suzano classic  pfv não levem a sério esse caso é muito sério
+Sentimento: positive, Score: 0.34509944915771484
+Sentimento: neutral, Score: 0.3067665100097656
+Sentimento: negative, Score: 0.34813404083251953
+-----
+Raw Content: Juíza Helena Suzano condenou Cláudio Coimbra e Vadym Hrynko, os dois ex-fuzileiros pelo homicídio do agente da PSP Fábio Guerra. “Existiu vontade de atacar” por parte dos dois arguidos, argumentou a magistrada do julgamento do caso. Com os três “pontapé... https://t.co/5f8aMp2i4d
+Cleaned Content: Juíza Helena Suzano condenou Cláudio Coimbra e Vadym Hrynko os dois exfuzileiros pelo homicídio do agente da PSP Fábio Guerra Existiu vontade de atacar por parte dos dois arguidos argumentou a magistrada do julgamento do caso Com os três pontapé httpstco5f8aMp2i4d
+Sentimento: positive, Score: 0.19388896226882935
+Sentimento: neutral, Score: 0.09346465766429901
+Sentimento: negative, Score: 0.7126463651657104
+-----
+Raw Content: @SILVIOROBERTOT2 @Barreto269 Não estou muito a par e suponho que vc esteja.
+No caso recente da Suzano, a informação completa não foi divulgada. Era, sim, terra produtiva, mas consta que a empresa não estava cumprindo algum acordo. Já a destruição de instalações da Embrapa NÃO TEM explicação: foi crime mesmo.
+Cleaned Content: SILVIOROBERTOT2 Barreto269 Não estou muito a par e suponho que vc esteja
+No caso recente da Suzano a informação completa não foi divulgada Era sim terra produtiva mas consta que a empresa não estava cumprindo algum acordo Já a destruição de instalações da Embrapa NÃO TEM explicação foi crime mesmo
+Sentimento: positive, Score: 0.05134274810552597
+Sentimento: neutral, Score: 0.27117788791656494
+Sentimento: negative, Score: 0.6774793863296509
+-----
+Raw Content: @elyverso 'To assistindo uma série sobre um caso real de assassinato em que a vítima era uma professora que foi demitida porque colocou a sala toda de castigo várias vezes. Cuidado Kingo kkk
+Cleaned Content: elyverso To assistindo uma série sobre um caso real de assassinato em que a vítima era uma professora que foi demitida porque colocou a sala toda de castigo várias vezes Cuidado Kingo kkk
+Sentimento: positive, Score: 0.12699425220489502
+Sentimento: neutral, Score: 0.07741585373878479
+Sentimento: negative, Score: 0.7955899238586426
+-----
+Raw Content: Agora soube que tem outra minissérie do ano passado sobre esse mesmo caso na Star+ e estou devorando tbm, comparando as diferenças dos acontecimentos entre as séries antes de ler os relatos do caso.
+Cleaned Content: Agora soube que tem outra minissérie do ano passado sobre esse mesmo caso na Star e estou devorando tbm comparando as diferenças dos acontecimentos entre as séries antes de ler os relatos do caso
+Sentimento: positive, Score: 0.14497941732406616
+Sentimento: neutral, Score: 0.16675564646720886
+Sentimento: negative, Score: 0.6882649660110474
+-----
+Raw Content: @emtu_oficial Bom dia. 
+Utilizo a linha 215 que sai de Suzano para Ribeirão Pires, embarco no ponto final dele. Com a mudança de horário e intervalos mais longos, caso tenham tentado realizar uma melhora da linha, não houve, o perigo de assalto está maior e impossibilitando a locomoção.
+Cleaned Content: emtu_oficial Bom dia 
+Utilizo a linha 215 que sai de Suzano para Ribeirão Pires embarco no ponto final dele Com a mudança de horário e intervalos mais longos caso tenham tentado realizar uma melhora da linha não houve o perigo de assalto está maior e impossibilitando a locomoção
+Sentimento: positive, Score: 0.5433672666549683
+Sentimento: neutral, Score: 0.18086294829845428
+Sentimento: negative, Score: 0.27576974034309387
+-----
+Raw Content: @carmelonetobr Será que Marcel Van Hattem, Maurício Marcon, MBL, Vem Pra Rua e demais, vão se solidarizar com esse caso?
+Cleaned Content: carmelonetobr Será que Marcel Van Hattem Maurício Marcon MBL Vem Pra Rua e demais vão se solidarizar com esse caso
+Sentimento: positive, Score: 0.6496654152870178
+Sentimento: neutral, Score: 0.10872823745012283
+Sentimento: negative, Score: 0.24160633981227875
+-----
+Raw Content: quem me conhece sabe que eu amo casos criminais, Madeleine McCann, Elize Matsunaga, Ataque a Suzano e afins
+Mas tem 1 único caso que me deixa paralisada por horas
+O da Boate Kiss
+Cleaned Content: quem me conhece sabe que eu amo casos criminais Madeleine McCann Elize Matsunaga Ataque a Suzano e afins
+Mas tem 1 único caso que me deixa paralisada por horas
+O da Boate Kiss
+Sentimento: positive, Score: 0.1750391572713852
+Sentimento: neutral, Score: 0.11454607546329498
+Sentimento: negative, Score: 0.7104148268699646
+-----
+Raw Content: até hoje o caso da escola em suzano me toca muito, fico toda arrepiada quando lembro desse dia foi uma energia horrível
+Cleaned Content: até hoje o caso da escola em suzano me toca muito fico toda arrepiada quando lembro desse dia foi uma energia horrível
+Sentimento: positive, Score: 0.22388452291488647
+Sentimento: neutral, Score: 0.0940764844417572
+Sentimento: negative, Score: 0.6820390224456787
+-----
+Raw Content: E realmente ele me pegou desprevenido, mencionando o caso da ocupação na Bahia na plantação de Eucaliptos da Suzano. Fui pelo caminho da sinceridade e expliquei que não estava inteirado no tema. Afinal, eu não sou obrigado a saber de tudo. +
+Cleaned Content: E realmente ele me pegou desprevenido mencionando o caso da ocupação na Bahia na plantação de Eucaliptos da Suzano Fui pelo caminho da sinceridade e expliquei que não estava inteirado no tema Afinal eu não sou obrigado a saber de tudo
+Sentimento: positive, Score: 0.04912495240569115
+Sentimento: neutral, Score: 0.06711745262145996
+Sentimento: negative, Score: 0.8837576508522034
+-----
+Raw Content: Puttttaaaa quueee pariuuu falta de noticiaaa 😂😂😂😂😂😂
+#patolino #roubo #pato 
+
+Caso Patolino: Influenciadora vai à delegacia para reconhecer ave parecida com pato sumido e sai com novo pet de estimação | Mogi das Cruzes e Suzano | G1 https://t.co/Vrf2fmCaAt
+Cleaned Content: Puttttaaaa quueee pariuuu falta de noticiaaa 
+patolino roubo pato 
+
+Caso Patolino Influenciadora vai à delegacia para reconhecer ave parecida com pato sumido e sai com novo pet de estimação  Mogi das Cruzes e Suzano  G1 httpstcoVrf2fmCaAt
+Sentimento: positive, Score: 0.24774254858493805
+Sentimento: neutral, Score: 0.14009402692317963
+Sentimento: negative, Score: 0.6121634244918823
+-----
+Raw Content: Eu espero que o  linha direta traga o caso da escola de Suzano #LinhaDireta
+Cleaned Content: Eu espero que o  linha direta traga o caso da escola de Suzano LinhaDireta
+Sentimento: positive, Score: 0.49368834495544434
+Sentimento: neutral, Score: 0.16094334423542023
+Sentimento: negative, Score: 0.345368355512619
+-----
+Raw Content: @HeitorPaiv A Guiana Francesa tem a menor população, cerca de 239 mil habitantes. Quase mil vezes a menos do que o Brasil e acharam petróleo.
+
+Imagina se a cidade de Suzano fosse um país e achasse petróleo. Não diz nada, e não resolve nada no nosso caso.
+Cleaned Content: HeitorPaiv A Guiana Francesa tem a menor população cerca de 239 mil habitantes Quase mil vezes a menos do que o Brasil e acharam petróleo
+
+Imagina se a cidade de Suzano fosse um país e achasse petróleo Não diz nada e não resolve nada no nosso caso
+Sentimento: positive, Score: 0.14485859870910645
+Sentimento: neutral, Score: 0.2623550295829773
+Sentimento: negative, Score: 0.5927863717079163
+-----
+Raw Content: @FlavioBolsonaro RACHADINHA OI RACHADINHA 
+SEMPRE FALANDO MERDA EM......
+explica aí de onde vinha este dinheiro, peça ao bandido do seu @jairbolsonaro explicar, seria um caso com o CIDÃO? https://t.co/ra8Cf29B8a
+Cleaned Content: FlavioBolsonaro RACHADINHA OI RACHADINHA 
+SEMPRE FALANDO MERDA EM
+explica aí de onde vinha este dinheiro peça ao bandido do seu jairbolsonaro explicar seria um caso com o CIDÃO httpstcora8Cf29B8a
+Sentimento: positive, Score: 0.3402979373931885
+Sentimento: neutral, Score: 0.14945296943187714
+Sentimento: negative, Score: 0.5102490782737732
+-----
+Raw Content: A Suzano tem um competente time de gestão e bastante eficiência em custo de produção de celulose. Além ser um excelente investimento, a empresa oferece proteção ao fundo em caso de deterioração fiscal do país”.
+Cleaned Content: A Suzano tem um competente time de gestão e bastante eficiência em custo de produção de celulose Além ser um excelente investimento a empresa oferece proteção ao fundo em caso de deterioração fiscal do país
+Sentimento: positive, Score: 0.9407749772071838
+Sentimento: neutral, Score: 0.03343591466546059
+Sentimento: negative, Score: 0.025789085775613785
+-----
+Raw Content: A perícia foi acionada tendo sido solicitados exames periciais. O caso foi registrado como morte suspeita (encontro de cadáver) no 1°DP de Suzano.
+
+Fonte: G1
+Cleaned Content: A perícia foi acionada tendo sido solicitados exames periciais O caso foi registrado como morte suspeita encontro de cadáver no 1DP de Suzano
+
+Fonte G1
+Sentimento: positive, Score: 0.16285458207130432
+Sentimento: neutral, Score: 0.09711183607578278
+Sentimento: negative, Score: 0.7400336265563965
+-----
+Raw Content: Uma ossada foi encontrada na tarde desta segunda-feira (22) em Suzano. O caso esta sendo investigado pela Polícia Civil. https://t.co/yRYMV8UlEN
+Cleaned Content: Uma ossada foi encontrada na tarde desta segundafeira 22 em Suzano O caso esta sendo investigado pela Polícia Civil httpstcoyRYMV8UlEN
+Sentimento: positive, Score: 0.31252285838127136
+Sentimento: neutral, Score: 0.1860406994819641
+Sentimento: negative, Score: 0.5014364123344421
+-----
+Raw Content: Atendimento de emergência 🚨
+
+Esse caso foi na área central de Suzano, recebi o pedido de socorro para um gato com a boca sangrando, fui fazer o resgate e levei para atendimento veterinário de emergência onde vai passar por exames e seguirá internado.
+ 
+Marcel da ONG https://t.co/go9uNPk22w
+Cleaned Content: Atendimento de emergência 
+
+Esse caso foi na área central de Suzano recebi o pedido de socorro para um gato com a boca sangrando fui fazer o resgate e levei para atendimento veterinário de emergência onde vai passar por exames e seguirá internado
+ 
+Marcel da ONG httpstcogo9uNPk22w
+Sentimento: positive, Score: 0.26358285546302795
+Sentimento: neutral, Score: 0.11288747191429138
+Sentimento: negative, Score: 0.6235296726226807
+-----
+Raw Content: @luiz_suzano @apropriajulia jesus cristo, é caso de sanatório mesmo.
+Cleaned Content: luiz_suzano apropriajulia jesus cristo é caso de sanatório mesmo
+Sentimento: positive, Score: 0.2838728129863739
+Sentimento: neutral, Score: 0.14588716626167297
+Sentimento: negative, Score: 0.5702400207519531
+-----
+Raw Content: Teremos o returno e ja podemos ter o Primeiro rebaixado!
+Ecus suzano pode ser rebaixado caso perca e o Barcelona ganhe do Jabaquara
+#Suzano https://t.co/CXnNGNvw98
+Cleaned Content: Teremos o returno e ja podemos ter o Primeiro rebaixado
+Ecus suzano pode ser rebaixado caso perca e o Barcelona ganhe do Jabaquara
+Suzano httpstcoCXnNGNvw98
+Sentimento: positive, Score: 0.5089553594589233
+Sentimento: neutral, Score: 0.15909188985824585
+Sentimento: negative, Score: 0.3319527804851532
+-----
+Raw Content: @CarloDiovanni @rikinho_r @PresidenteDoPop @gleisi Faça isso e fuja do Brasil, que é só o que sua laia sabe fazer.  Quanto à fazenda da Suzano você citou um caso onde há informações sobre grilagem e tals. Mas que tal pesquisar a parte boa. Aliás, se você é fazendeiro, mantenha sua terra produtiva
+Cleaned Content: CarloDiovanni rikinho_r PresidenteDoPop gleisi Faça isso e fuja do Brasil que é só o que sua laia sabe fazer  Quanto à fazenda da Suzano você citou um caso onde há informações sobre grilagem e tals Mas que tal pesquisar a parte boa Aliás se você é fazendeiro mantenha sua terra produtiva
+Sentimento: positive, Score: 0.2593633234500885
+Sentimento: neutral, Score: 0.12170062214136124
+Sentimento: negative, Score: 0.6189361214637756
+-----
+Raw Content: @apropriajulia Hitler adorava, amava e exigia que as crianças usavam.
+Não é seu caso não, aí é só coincidência!!!
+Cleaned Content: apropriajulia Hitler adorava amava e exigia que as crianças usavam
+Não é seu caso não aí é só coincidência
+Sentimento: positive, Score: 0.4812830686569214
+Sentimento: neutral, Score: 0.14940768480300903
+Sentimento: negative, Score: 0.36930927634239197
+-----
+Raw Content: @Nathan32787876 @GutoZacariasMBL Primeiro, não é um grupo privado que decide se uma terra cumpre ou não papel social, segundo, eles invadem terras que cumprem papel social, basta pesquisar o caso de Suzano por exemplo
+Cleaned Content: Nathan32787876 GutoZacariasMBL Primeiro não é um grupo privado que decide se uma terra cumpre ou não papel social segundo eles invadem terras que cumprem papel social basta pesquisar o caso de Suzano por exemplo
+Sentimento: positive, Score: 0.20199540257453918
+Sentimento: neutral, Score: 0.4027920365333557
+Sentimento: negative, Score: 0.3952125906944275
+-----
+Raw Content: @luiz_suzano @BlogdoNoblat Identidade só serve para associar uma pessoa a um número que no caso será CPF
+Cleaned Content: luiz_suzano BlogdoNoblat Identidade só serve para associar uma pessoa a um número que no caso será CPF
+Sentimento: positive, Score: 0.444519579410553
+Sentimento: neutral, Score: 0.2090025097131729
+Sentimento: negative, Score: 0.3464778661727905
+-----
+Raw Content: @samiabomfim o tal do Salles tem ainda aquele caso de mudanças leis ambientais em SP para favorecer a Suzano … inacreditável
+Cleaned Content: samiabomfim o tal do Salles tem ainda aquele caso de mudanças leis ambientais em SP para favorecer a Suzano  inacreditável
+Sentimento: positive, Score: 0.45263633131980896
+Sentimento: neutral, Score: 0.11691778898239136
+Sentimento: negative, Score: 0.4304458498954773
+-----
+Raw Content: @GloboNews @estudioi @AndreiaSadi Instituição sem PJ? Como isso é uma instituição.
+Sem fato determinado? Insavão de Suzano em área de produção de Eucalipto é o que? Legal? Terra improdutiva?
+Impor sua vontade para cumprimento constitucional n é diferente de ameaçar um juiz que ainda n julgou seu caso.
+Cleaned Content: GloboNews estudioi AndreiaSadi Instituição sem PJ Como isso é uma instituição
+Sem fato determinado Insavão de Suzano em área de produção de Eucalipto é o que Legal Terra improdutiva
+Impor sua vontade para cumprimento constitucional n é diferente de ameaçar um juiz que ainda n julgou seu caso
+Sentimento: positive, Score: 0.1428544521331787
+Sentimento: neutral, Score: 0.25691643357276917
+Sentimento: negative, Score: 0.6002290844917297
+-----
+Raw Content: Ontem no jogo do gremio tivemos um caso terrível e da nojo!
+Cadeia é pouco!!
+Cleaned Content: Ontem no jogo do gremio tivemos um caso terrível e da nojo
+Cadeia é pouco
+Sentimento: positive, Score: 0.2494373470544815
+Sentimento: neutral, Score: 0.19445006549358368
+Sentimento: negative, Score: 0.5561125874519348
+-----
+Raw Content: @spectroed @ReplyGPT @ProfRoabe @Damadeferroofic Não foi da Fiocruz, foi da Suzano. Não sou à favor desse caso em si, mas se tratou de pesquisas de eucalipto transgênero para celulose. E a Suzano tem histórico de invasão de áreas públicas e diversos crimes ambientais.
+Cleaned Content: spectroed ReplyGPT ProfRoabe Damadeferroofic Não foi da Fiocruz foi da Suzano Não sou à favor desse caso em si mas se tratou de pesquisas de eucalipto transgênero para celulose E a Suzano tem histórico de invasão de áreas públicas e diversos crimes ambientais
+Sentimento: positive, Score: 0.06410422921180725
+Sentimento: neutral, Score: 0.22628343105316162
+Sentimento: negative, Score: 0.7096123695373535
+-----
+Raw Content: Você sabia que o caso do Massacre de Suzano foi capa da revista Veja?
+Se quiserem eu posto os scans dela. https://t.co/fcbp2JleTR
+Cleaned Content: Você sabia que o caso do Massacre de Suzano foi capa da revista Veja
+Se quiserem eu posto os scans dela httpstcofcbp2JleTR
+Sentimento: positive, Score: 0.320110023021698
+Sentimento: neutral, Score: 0.1550883650779724
+Sentimento: negative, Score: 0.5248016119003296
+-----
+Raw Content: PORÉM, é o que dá pra fazer agora.
+Sem teoria da conspiração de governo. 
+Isso é literalmente operação policial assim como existiu a mesma operação no caso suzano e chegou até o "cabeça", assim como a polícia traça até sinal de celular, DNA e apreende os aparelhos +
+Cleaned Content: PORÉM é o que dá pra fazer agora
+Sem teoria da conspiração de governo 
+Isso é literalmente operação policial assim como existiu a mesma operação no caso suzano e chegou até o cabeça assim como a polícia traça até sinal de celular DNA e apreende os aparelhos
+Sentimento: positive, Score: 0.15448300540447235
+Sentimento: neutral, Score: 0.22209802269935608
+Sentimento: negative, Score: 0.6234189867973328
+-----
+Raw Content: + os pensamentos sobre o tema podem aumentar e pode haver um incentivo para que o crime aconteça.
+No caso de Suzano, por exemplo, além dos dois garotos que foram os autores, um terceiro garoto foi preso por ter dado toda a ideia e explicado a execução.
+Cleaned Content: os pensamentos sobre o tema podem aumentar e pode haver um incentivo para que o crime aconteça
+No caso de Suzano por exemplo além dos dois garotos que foram os autores um terceiro garoto foi preso por ter dado toda a ideia e explicado a execução
+Sentimento: positive, Score: 0.3799239695072174
+Sentimento: neutral, Score: 0.07407726347446442
+Sentimento: negative, Score: 0.545998752117157
+-----
+Raw Content: Gato jogado em calçada com ferimentos 🚨
+
+Fui socorrer mais um caso grave, este gato estava jogado na calçada próximo ao Shopping de Suzano, aparentemente foi atropelado e estava bem debilitado, levei para atendimento veterinário de emergência onde ficou internado para exames. https://t.co/BWmXbAeHrQ
+Cleaned Content: Gato jogado em calçada com ferimentos 
+
+Fui socorrer mais um caso grave este gato estava jogado na calçada próximo ao Shopping de Suzano aparentemente foi atropelado e estava bem debilitado levei para atendimento veterinário de emergência onde ficou internado para exames httpstcoBWmXbAeHrQ
+Sentimento: positive, Score: 0.11363361775875092
+Sentimento: neutral, Score: 0.08493804931640625
+Sentimento: negative, Score: 0.8014283180236816
+-----
+Raw Content: A polícia errou FEIO neste caso, tiveram a chance de dar um tiro na cabeça deste assassino e não fizeram, por duas ou três vezes e não deram o tiro!
+Aiiiii ele mata a menina!!!!!
+Cleaned Content: A polícia errou FEIO neste caso tiveram a chance de dar um tiro na cabeça deste assassino e não fizeram por duas ou três vezes e não deram o tiro
+Aiiiii ele mata a menina
+Sentimento: positive, Score: 0.1001807302236557
+Sentimento: neutral, Score: 0.18161916732788086
+Sentimento: negative, Score: 0.718200147151947
+-----
+Raw Content: @BolsonaroSP 
+@CarlosBolsonaro 
+@FlavioBolsonaro 
+ISSO É VEXAME INTERNACIONAL!!!
+ISSO É CASO DE PRISÃO!!!
+@plnacional_  VERGONHA MUNDIAL!!
+@apropriajulia VERGONHA ATE PARA O NAZISMO!
+@nikolas_dm VEXAME E CADEIA!!!
+@GayerGus KKKKKK
+@carlosjordy KKKK
+VERGONHA E VEXAME MUNDIAL!
+Cleaned Content: BolsonaroSP 
+CarlosBolsonaro 
+FlavioBolsonaro 
+ISSO É VEXAME INTERNACIONAL
+ISSO É CASO DE PRISÃO
+plnacional_  VERGONHA MUNDIAL
+apropriajulia VERGONHA ATE PARA O NAZISMO
+nikolas_dm VEXAME E CADEIA
+GayerGus KKKKKK
+carlosjordy KKKK
+VERGONHA E VEXAME MUNDIAL
+Sentimento: positive, Score: 0.5429897308349609
+Sentimento: neutral, Score: 0.1579180657863617
+Sentimento: negative, Score: 0.29909220337867737
+-----
+Raw Content: @Suzano_info @edmilsonpapodez Vítima onde? Ele é um bandido isso sim. Ninguém está acima da lei! O caso das joias milionárias, fraude nas vacinações é só a ponta do iceberg. Agr não têm mais sigilos de 100 anos pra abafar os crimes da máfia Bolsonaro. A casa caiu
+Cleaned Content: Suzano_info edmilsonpapodez Vítima onde Ele é um bandido isso sim Ninguém está acima da lei O caso das joias milionárias fraude nas vacinações é só a ponta do iceberg Agr não têm mais sigilos de 100 anos pra abafar os crimes da máfia Bolsonaro A casa caiu
+Sentimento: positive, Score: 0.07553610950708389
+Sentimento: neutral, Score: 0.10469477623701096
+Sentimento: negative, Score: 0.8197691440582275
+-----
+Raw Content: Em primeiro lugar, é evidente que se tratando de uma empresa de commodity, a variação no preço da sua mercadoria principal (no caso da Suzano, a celulose) e do dólar influenciarão diretamente na receita obtida pela companhia. Todavia, esse não é o mais importante…
+Cleaned Content: Em primeiro lugar é evidente que se tratando de uma empresa de commodity a variação no preço da sua mercadoria principal no caso da Suzano a celulose e do dólar influenciarão diretamente na receita obtida pela companhia Todavia esse não é o mais importante
+Sentimento: positive, Score: 0.17941895127296448
+Sentimento: neutral, Score: 0.20584514737129211
+Sentimento: negative, Score: 0.6147359013557434
+-----
+Raw Content: E o caso do ex jornalista da globo que está na @CNNBrasil Willian....
+Que foi demitido pela mesma frase, " Isso só pode ser coisa de preto"?
+Cleaned Content: E o caso do ex jornalista da globo que está na CNNBrasil Willian
+Que foi demitido pela mesma frase  Isso só pode ser coisa de preto
+Sentimento: positive, Score: 0.17731636762619019
+Sentimento: neutral, Score: 0.1748182773590088
+Sentimento: negative, Score: 0.6478652954101562
+-----
+Raw Content: @dferrazipad @silviolual @MST_Oficial As invasões de terras, muitas vezes não é pra se instalar ali, mas para chamar atenção para a pauta da reforma agrária!
+Por isso que invadem terras que trarão visibilidade midiática, como foi o caso da invasão de propriedades da Suzano!
+Cleaned Content: dferrazipad silviolual MST_Oficial As invasões de terras muitas vezes não é pra se instalar ali mas para chamar atenção para a pauta da reforma agrária
+Por isso que invadem terras que trarão visibilidade midiática como foi o caso da invasão de propriedades da Suzano
+Sentimento: positive, Score: 0.21562202274799347
+Sentimento: neutral, Score: 0.19412033259868622
+Sentimento: negative, Score: 0.5902576446533203
+-----
+Raw Content: Vi em um podcast a fala de uma delegada sobre o caso de Suzano. Os pais estão perdendo seus filhos dentro de casa.
+Cleaned Content: Vi em um podcast a fala de uma delegada sobre o caso de Suzano Os pais estão perdendo seus filhos dentro de casa
+Sentimento: positive, Score: 0.22268438339233398
+Sentimento: neutral, Score: 0.1681651473045349
+Sentimento: negative, Score: 0.6091504693031311
+-----
+Raw Content: @skygge_fck @tvglobo @showdavida Eu so estou mostrando fatos... interagem entre si nas subcomunidades e atuam em cooperação, aliás, sabe dizer pq no caso de Suzano ele escreveu um verso da bíblia sant4nica?
+Cleaned Content: skygge_fck tvglobo showdavida Eu so estou mostrando fatos interagem entre si nas subcomunidades e atuam em cooperação aliás sabe dizer pq no caso de Suzano ele escreveu um verso da bíblia sant4nica
+Sentimento: positive, Score: 0.40982329845428467
+Sentimento: neutral, Score: 0.15064582228660583
+Sentimento: negative, Score: 0.4395308494567871
+-----
+Raw Content: @EInvestidor Pessoal, no caso da Suzano o lucro líquido não é um bom indicador em função de regras contábeis complexas. Sugiro olhar para a geração de caixa operacional, que foi muito boa.
+Cleaned Content: EInvestidor Pessoal no caso da Suzano o lucro líquido não é um bom indicador em função de regras contábeis complexas Sugiro olhar para a geração de caixa operacional que foi muito boa
+Sentimento: positive, Score: 0.430675745010376
+Sentimento: neutral, Score: 0.28242653608322144
+Sentimento: negative, Score: 0.2868977189064026
+-----
+Raw Content: Filme Elephant (2003). Inspirado pelo caso Columbine. Dois adolescentes atacam sua escola, porém antes eles têm um affair entre si. O parceiro vestido de preto mata o outro durante o ataque. Isso me lembrou o caso Suzano onde já se discutiu a sexualidade dos 2 e um matou o outro. https://t.co/yWYULo1ER2
+Cleaned Content: Filme Elephant 2003 Inspirado pelo caso Columbine Dois adolescentes atacam sua escola porém antes eles têm um affair entre si O parceiro vestido de preto mata o outro durante o ataque Isso me lembrou o caso Suzano onde já se discutiu a sexualidade dos 2 e um matou o outro httpstcoyWYULo1ER2
+Sentimento: positive, Score: 0.14289993047714233
+Sentimento: neutral, Score: 0.11783818155527115
+Sentimento: negative, Score: 0.7392618656158447
+-----
+Raw Content: @dyana_ferrer Eu acho que o timer é ruim, mas o caso da Suzano trata-se de terras GRILADAS, e por mais produtivas que sejam foram roubadas! Então pq os jornais não ficam divulgando a verdade?
+Cleaned Content: dyana_ferrer Eu acho que o timer é ruim mas o caso da Suzano tratase de terras GRILADAS e por mais produtivas que sejam foram roubadas Então pq os jornais não ficam divulgando a verdade
+Sentimento: positive, Score: 0.09461824595928192
+Sentimento: neutral, Score: 0.09319954365491867
+Sentimento: negative, Score: 0.8121822476387024
+-----
+Raw Content: @louisantoni @andradgah @leandroruschel Sim irmão a deep web presta esclarecimento sim kkkkk, desde que existe a internet existe a deep, e lá ocorrem vários crimes e foram e são responsáveis pelas maiorias, como o caso de Suzano que foi organizado no dogolachan, e cada o governo investigando?
+Cleaned Content: louisantoni andradgah leandroruschel Sim irmão a deep web presta esclarecimento sim kkkkk desde que existe a internet existe a deep e lá ocorrem vários crimes e foram e são responsáveis pelas maiorias como o caso de Suzano que foi organizado no dogolachan e cada o governo investigando
+Sentimento: positive, Score: 0.2120206505060196
+Sentimento: neutral, Score: 0.08348218351602554
+Sentimento: negative, Score: 0.704497218132019
+-----
+Raw Content: @andradgah @leandroruschel Mano sempre existiu deep web, lá existem Chans, e a deep web existe desde quando se criou a internet praticamente, e lá é o lugar que as pessoas organizam massacre como no caso de Suzano, que foi organizado no Chan do dogola, e pq ngm faz nada a respeito?
+Cleaned Content: andradgah leandroruschel Mano sempre existiu deep web lá existem Chans e a deep web existe desde quando se criou a internet praticamente e lá é o lugar que as pessoas organizam massacre como no caso de Suzano que foi organizado no Chan do dogola e pq ngm faz nada a respeito
+Sentimento: positive, Score: 0.1283126026391983
+Sentimento: neutral, Score: 0.15350723266601562
+Sentimento: negative, Score: 0.7181801795959473
+-----
+Raw Content: @MelissaNosli Caso Suzano ... inavadiram aleatoriamente terra produtiva ... mas por força da lei já desocuparam ... https://t.co/hSzJNFoA9F
+Cleaned Content: MelissaNosli Caso Suzano  inavadiram aleatoriamente terra produtiva  mas por força da lei já desocuparam  httpstcohSzJNFoA9F
+Sentimento: positive, Score: 0.1847054809331894
+Sentimento: neutral, Score: 0.1505652666091919
+Sentimento: negative, Score: 0.6647292375564575
+-----
+Raw Content: eu amo o canal do Beto Ribeiro, mas ele chamou uma delegada pra falar sobre o caso de Suzano e a mulher meteu serinho que infringir regras tipo "fumar na escola" já é um sinal de que a pessoa pende pra criminalidade
+
+eita que simetria !! adolescente rebelde (normal) com psicopata
+Cleaned Content: eu amo o canal do Beto Ribeiro mas ele chamou uma delegada pra falar sobre o caso de Suzano e a mulher meteu serinho que infringir regras tipo fumar na escola já é um sinal de que a pessoa pende pra criminalidade
+
+eita que simetria  adolescente rebelde normal com psicopata
+Sentimento: positive, Score: 0.08101018518209457
+Sentimento: neutral, Score: 0.07251051813364029
+Sentimento: negative, Score: 0.8464792966842651
+-----
+Raw Content: @MelissaNosli Com todo respeito ... discordo de vc ... e estudei bastante esse assunto em outro momento da vida ... vide caso Suzano ... Grileiros são criminosos sim ... aí já concordo ...
+Cleaned Content: MelissaNosli Com todo respeito  discordo de vc  e estudei bastante esse assunto em outro momento da vida  vide caso Suzano  Grileiros são criminosos sim  aí já concordo
+Sentimento: positive, Score: 0.31267017126083374
+Sentimento: neutral, Score: 0.08318910002708435
+Sentimento: negative, Score: 0.6041406989097595
+-----
+Raw Content: No ar! Veja como foi aquele dia 13 de março de 2019. A corrida da polícia para entender todo o ataque e chegar ao terceiro culpado que ainda estava vivo. 👇🏻👇🏻👇🏻
+
+SUZANO, A ESCOLA - DETALHES DE TODO CASO - ONDE TUDO COMEÇOU - CRIME S/A https://t.co/ZCeevja6H6 via @YouTube https://t.co/bXFtLv7pGF
+Cleaned Content: No ar Veja como foi aquele dia 13 de março de 2019 A corrida da polícia para entender todo o ataque e chegar ao terceiro culpado que ainda estava vivo 
+
+SUZANO A ESCOLA  DETALHES DE TODO CASO  ONDE TUDO COMEÇOU  CRIME SA httpstcoZCeevja6H6 via YouTube httpstcobXFtLv7pGF
+Sentimento: positive, Score: 0.17725665867328644
+Sentimento: neutral, Score: 0.13133838772773743
+Sentimento: negative, Score: 0.6914049386978149
+-----
+Raw Content: @lhamanalama @podcastmid eu só posso acreditar que é conveniente. especialmente pq após o caso de Suzano a cidade transformou as escolas em quarteizinhos do saber, e tem políticos, empresas de segurança e outros lobistas (inclusive aqui do estado) que ficam sexualmente estimulados com essa ideia.
+Cleaned Content: lhamanalama podcastmid eu só posso acreditar que é conveniente especialmente pq após o caso de Suzano a cidade transformou as escolas em quarteizinhos do saber e tem políticos empresas de segurança e outros lobistas inclusive aqui do estado que ficam sexualmente estimulados com essa ideia
+Sentimento: positive, Score: 0.3767538368701935
+Sentimento: neutral, Score: 0.12045468389987946
+Sentimento: negative, Score: 0.5027915239334106
+-----
+Raw Content: pato voa?
+
+Caso Patolino: Polícia analisa imagens de câmeras e ouve pessoas que trabalhavam em condomínio onde pato desapareceu | Mogi das Cruzes e Suzano | G1 https://t.co/fLFB86Nush
+Cleaned Content: pato voa
+
+Caso Patolino Polícia analisa imagens de câmeras e ouve pessoas que trabalhavam em condomínio onde pato desapareceu  Mogi das Cruzes e Suzano  G1 httpstcofLFB86Nush
+Sentimento: positive, Score: 0.207285076379776
+Sentimento: neutral, Score: 0.13333266973495483
+Sentimento: negative, Score: 0.6593822240829468
+-----
+Raw Content: @luizmuller @jornalnacional @MST_Oficial Sim eu vi, no site da Justiça Federal podemos acompanhar o processo 0000693-61.2013.4.02.5003. Os réus no caso foram alterados. É terra do governo sendo usada pela iniciativa privada para gerar lucros para a Suzano!!! https://t.co/G39ASnzGIZ
+Cleaned Content: luizmuller jornalnacional MST_Oficial Sim eu vi no site da Justiça Federal podemos acompanhar o processo 00006936120134025003 Os réus no caso foram alterados É terra do governo sendo usada pela iniciativa privada para gerar lucros para a Suzano httpstcoG39ASnzGIZ
+Sentimento: positive, Score: 0.4207075834274292
+Sentimento: neutral, Score: 0.13339181244373322
+Sentimento: negative, Score: 0.4459006190299988
+-----
+Raw Content: @DamaresAlves Damares TRAIDORA! Até hoje não vi vc defender o presidente nesse caso. https://t.co/MxsCurYcjH
+Cleaned Content: DamaresAlves Damares TRAIDORA Até hoje não vi vc defender o presidente nesse caso httpstcoMxsCurYcjH
+Sentimento: positive, Score: 0.2626056969165802
+Sentimento: neutral, Score: 0.31251177191734314
+Sentimento: negative, Score: 0.42488253116607666
+-----
+Raw Content: @Suzano_info @RenanSantosMBL Caso não saiba o projeto já tinha sido apresentado pelo Congresso na legislatura anterior quase foi votado em urgência, foi obstruído por pouco.
+Cleaned Content: Suzano_info RenanSantosMBL Caso não saiba o projeto já tinha sido apresentado pelo Congresso na legislatura anterior quase foi votado em urgência foi obstruído por pouco
+Sentimento: positive, Score: 0.23172158002853394
+Sentimento: neutral, Score: 0.29504168033599854
+Sentimento: negative, Score: 0.4732367694377899
+-----
+Raw Content: @MST_Oficial nao tem mais apoio meu ao contrário, invadir Emprapa, Suzano  estão cometendo CRIME , invadir terras sem documentos ou improdutivas ok caso contrário é CRIME só atrapalha a REFORMA AGRÁRIA
+Cleaned Content: MST_Oficial nao tem mais apoio meu ao contrário invadir Emprapa Suzano  estão cometendo CRIME  invadir terras sem documentos ou improdutivas ok caso contrário é CRIME só atrapalha a REFORMA AGRÁRIA
+Sentimento: positive, Score: 0.41939157247543335
+Sentimento: neutral, Score: 0.173283189535141
+Sentimento: negative, Score: 0.40732523798942566
+-----
+Raw Content: Cruzeiro e São José podem entrar em quadra já sabendo sobre o possível adversário da final. Caso o Itambé Minas vença a partida, fecha a série contra Suzano em 2 a 0. 
+
+A partida está acontecendo agora e está 2 sets a 0 pra a equipe minastenista #SuperligaNoENM
+Cleaned Content: Cruzeiro e São José podem entrar em quadra já sabendo sobre o possível adversário da final Caso o Itambé Minas vença a partida fecha a série contra Suzano em 2 a 0 
+
+A partida está acontecendo agora e está 2 sets a 0 pra a equipe minastenista SuperligaNoENM
+Sentimento: positive, Score: 0.44610464572906494
+Sentimento: neutral, Score: 0.16406957805156708
+Sentimento: negative, Score: 0.3898257613182068
+-----
+Raw Content: Sportv anuncia na transmissão de Suzano x Minas que Wallace não está relacionado para o duelo Sada Cruzeiro x Farma Conde/São José, já que segue o impasse jurídico com as decisões do STJD e o Comitê de Ética do COB. CBV em silêncio nesta semana sobre o caso
+Cleaned Content: Sportv anuncia na transmissão de Suzano x Minas que Wallace não está relacionado para o duelo Sada Cruzeiro x Farma CondeSão José já que segue o impasse jurídico com as decisões do STJD e o Comitê de Ética do COB CBV em silêncio nesta semana sobre o caso
+Sentimento: positive, Score: 0.17364196479320526
+Sentimento: neutral, Score: 0.3175152838230133
+Sentimento: negative, Score: 0.5088427662849426
+-----
+Raw Content: chega a ser mórbido de ridículo as pessoas realmente acreditarem que amanhã vai ter algo dentro das escolas, duvido que se tiver algo vai ser algo grandioso como o caso suzano ou o ataque na creche
+Cleaned Content: chega a ser mórbido de ridículo as pessoas realmente acreditarem que amanhã vai ter algo dentro das escolas duvido que se tiver algo vai ser algo grandioso como o caso suzano ou o ataque na creche
+Sentimento: positive, Score: 0.2638102173805237
+Sentimento: neutral, Score: 0.05444522202014923
+Sentimento: negative, Score: 0.6817445755004883
+-----
+Raw Content: @Uruburei011 Foi mesmo. Mourão deu declaração pública (se não me engano, foi no caso de Suzano)
+Cleaned Content: Uruburei011 Foi mesmo Mourão deu declaração pública se não me engano foi no caso de Suzano
+Sentimento: positive, Score: 0.17143802344799042
+Sentimento: neutral, Score: 0.29830625653266907
+Sentimento: negative, Score: 0.5302556753158569
+-----
+Raw Content: @kimpaim Só os que fizeram o L e concordam com a encenação. Parece que é o caso da Suzano, não é?
+Cleaned Content: kimpaim Só os que fizeram o L e concordam com a encenação Parece que é o caso da Suzano não é
+Sentimento: positive, Score: 0.24549761414527893
+Sentimento: neutral, Score: 0.2450903058052063
+Sentimento: negative, Score: 0.5094121098518372
+-----
+Raw Content: @ExPastorDamiao @reportersalles Sim, muita gente boa perdendo o juízo. As 4 crianças que foram mortas, o caso do Suzano e os 279 planos possível em ataque de escolas visto na internet pela polícia civil e tudo de pessoas '' gente boa '' que precisam de punições mais severas.  tá tirando e pastor? Cada uma.
+Cleaned Content: ExPastorDamiao reportersalles Sim muita gente boa perdendo o juízo As 4 crianças que foram mortas o caso do Suzano e os 279 planos possível em ataque de escolas visto na internet pela polícia civil e tudo de pessoas  gente boa  que precisam de punições mais severas  tá tirando e pastor Cada uma
+Sentimento: positive, Score: 0.09903866052627563
+Sentimento: neutral, Score: 0.04332740232348442
+Sentimento: negative, Score: 0.8576338887214661
+-----
+Raw Content: A Justiça do Espírito Santo determinou que o MST desocupe uma fazenda da empresa Suzano em Aracruz. A liminar de reintegração de posse foi concedida em regime de urgência e prevê multa caso os manifestantes não deixem o local. #LiveCNNBrasil https://t.co/35cOVFOZDH
+Cleaned Content: A Justiça do Espírito Santo determinou que o MST desocupe uma fazenda da empresa Suzano em Aracruz A liminar de reintegração de posse foi concedida em regime de urgência e prevê multa caso os manifestantes não deixem o local LiveCNNBrasil httpstco35cOVFOZDH
+Sentimento: positive, Score: 0.0936461091041565
+Sentimento: neutral, Score: 0.1194196492433548
+Sentimento: negative, Score: 0.7869342565536499
+-----
+Raw Content: @FlavioDino ainda tô esperando , a regra p ,bandido e traficante...
+...aliás, aqui em Suzano sp,  teve mais um homicídio esse fim de semana..e ,não foi por cac 
+mas, nesse caso ,não importa, NÉ.
+Cleaned Content: FlavioDino ainda tô esperando  a regra p bandido e traficante
+aliás aqui em Suzano sp  teve mais um homicídio esse fim de semanae não foi por cac 
+mas nesse caso não importa NÉ
+Sentimento: positive, Score: 0.18874777853488922
+Sentimento: neutral, Score: 0.15942250192165375
+Sentimento: negative, Score: 0.651829719543457
+-----
+Raw Content: Sobre o caso das invasões de terras griladas pela *Suzano*. @jornalnacional o MST protege o patrimônio público.
+Cleaned Content: Sobre o caso das invasões de terras griladas pela Suzano jornalnacional o MST protege o patrimônio público
+Sentimento: positive, Score: 0.33793404698371887
+Sentimento: neutral, Score: 0.09179865568876266
+Sentimento: negative, Score: 0.5702673196792603
+-----
+Raw Content: @folha Até área da Embrapa?
+Vão dizer que também é improdutiva como o caso da Suzano? Coisa de bandido avalizada pelo malandro do atual presidente da república.
+Cleaned Content: folha Até área da Embrapa
+Vão dizer que também é improdutiva como o caso da Suzano Coisa de bandido avalizada pelo malandro do atual presidente da república
+Sentimento: positive, Score: 0.14389736950397491
+Sentimento: neutral, Score: 0.08586443215608597
+Sentimento: negative, Score: 0.7702382206916809
+-----
+Raw Content: @fabiowoficial Aqui entre nós, caso seja desapropriada para fins de reforma agrária, poderá sair um grande negócio para os Suzano, dependendo do valor de venda.
+.
+Melhor ficar de olho se parte dessas invasões não vai ser usadas como mecanismo de uma grande transferência de dinheiro público.
+Cleaned Content: fabiowoficial Aqui entre nós caso seja desapropriada para fins de reforma agrária poderá sair um grande negócio para os Suzano dependendo do valor de venda
+
+Melhor ficar de olho se parte dessas invasões não vai ser usadas como mecanismo de uma grande transferência de dinheiro público
+Sentimento: positive, Score: 0.19039009511470795
+Sentimento: neutral, Score: 0.11230915039777756
+Sentimento: negative, Score: 0.6973007917404175
+-----
+Raw Content: @heliobeltrao O caso MST e Suzano é briga de família.  Estão todos juntos com o governo do amor.
+Cleaned Content: heliobeltrao O caso MST e Suzano é briga de família  Estão todos juntos com o governo do amor
+Sentimento: positive, Score: 0.4365212917327881
+Sentimento: neutral, Score: 0.07621727883815765
+Sentimento: negative, Score: 0.48726147413253784
+-----
+Raw Content: Matéria nojenta do JN sobre o MST e o caso da Suzano
+Cleaned Content: Matéria nojenta do JN sobre o MST e o caso da Suzano
+Sentimento: positive, Score: 0.2614797353744507
+Sentimento: neutral, Score: 0.17118139564990997
+Sentimento: negative, Score: 0.5673388838768005
+-----
+Raw Content: @vaampwol @janvvixcto eu lembro que no ensino médio na época do caso de suzano acho, um monte de gente começou a falar comigo só pq eu era quieta tipo?
+Cleaned Content: vaampwol janvvixcto eu lembro que no ensino médio na época do caso de suzano acho um monte de gente começou a falar comigo só pq eu era quieta tipo
+Sentimento: positive, Score: 0.22861163318157196
+Sentimento: neutral, Score: 0.2729634642601013
+Sentimento: negative, Score: 0.4984249770641327
+-----
+Raw Content: Caso escola de Suzano ... 2019
+https://t.co/Ys94VupCNh
+
+https://t.co/xtfKTKb6H0
+Cleaned Content: Caso escola de Suzano  2019
+httpstcoYs94VupCNh
+
+httpstcoxtfKTKb6H0
+Sentimento: positive, Score: 0.5822916626930237
+Sentimento: neutral, Score: 0.19814740121364594
+Sentimento: negative, Score: 0.21956098079681396
+-----
+Raw Content: @FeliceRosin @Suzano_info @KimKataguiri @Ricardo_O_Fla Protocolando impeachment do Bolsonaro pelo caso da pandemia de COVID-19.
+Cleaned Content: FeliceRosin Suzano_info KimKataguiri Ricardo_O_Fla Protocolando impeachment do Bolsonaro pelo caso da pandemia de COVID19
+Sentimento: positive, Score: 0.3996576964855194
+Sentimento: neutral, Score: 0.12480948865413666
+Sentimento: negative, Score: 0.47553279995918274
+-----
+Raw Content: @srpudinzinho Pior que eu vi faz uns dias o caso e pensei: agora com o massacre recente e as tentativas, vão fazer um filme desse caso e do Suzano, certeza e vai ter um monte de “vidas com propósito”.
+Cleaned Content: srpudinzinho Pior que eu vi faz uns dias o caso e pensei agora com o massacre recente e as tentativas vão fazer um filme desse caso e do Suzano certeza e vai ter um monte de vidas com propósito
+Sentimento: positive, Score: 0.20054931938648224
+Sentimento: neutral, Score: 0.06600772589445114
+Sentimento: negative, Score: 0.7334429621696472
+-----
+Raw Content: @deltanmd Queridão, sério mesmo? És jurista? Pois se não sabe, deveria saber que as "invasões" de terra do MST, são sempre em terras que já tem a expropriação, ou já em fase de acordo para entrega para reforma agrária, caso celulose suzano, aí já é mau carater ou ignorância? https://t.co/XcsQWVkQV4
+Cleaned Content: deltanmd Queridão sério mesmo És jurista Pois se não sabe deveria saber que as invasões de terra do MST são sempre em terras que já tem a expropriação ou já em fase de acordo para entrega para reforma agrária caso celulose suzano aí já é mau carater ou ignorância httpstcoXcsQWVkQV4
+Sentimento: positive, Score: 0.10824859142303467
+Sentimento: neutral, Score: 0.1609126180410385
+Sentimento: negative, Score: 0.7308387160301208
+-----
+Raw Content: Caso veio à tona na semana passada após vídeo das violências serem divulgados pela vítima; Valmir Maurici Júnior também é acusado de crimes contra outras mulheres
+
+Valmir Maurici Júnior, juiz que foi filmado agredindo a esposa, vai continuar afastado do
+
+https://t.co/tsHXv3ZS92 https://t.co/c5rV7MkXa1
+Cleaned Content: Caso veio à tona na semana passada após vídeo das violências serem divulgados pela vítima Valmir Maurici Júnior também é acusado de crimes contra outras mulheres
+
+Valmir Maurici Júnior juiz que foi filmado agredindo a esposa vai continuar afastado do
+
+httpstcotsHXv3ZS92 httpstcoc5rV7MkXa1
+Sentimento: positive, Score: 0.11636397987604141
+Sentimento: neutral, Score: 0.06425706297159195
+Sentimento: negative, Score: 0.8193789124488831
+-----
+Raw Content: Crime !
+
+5 Filhotes em fase de amamentação foram abandonados em caixa de papelão lacrada com fita em rua deserta do parque Maria Helena em Suzano.
+
+Toda informação sobre esse caso é importante, denuncie!  Whatsapp 📲 942351014 
+114744-8023 https://t.co/Vxczfslx5R
+Cleaned Content: Crime 
+
+5 Filhotes em fase de amamentação foram abandonados em caixa de papelão lacrada com fita em rua deserta do parque Maria Helena em Suzano
+
+Toda informação sobre esse caso é importante denuncie  Whatsapp  942351014 
+1147448023 httpstcoVxczfslx5R
+Sentimento: positive, Score: 0.10285032540559769
+Sentimento: neutral, Score: 0.09301640093326569
+Sentimento: negative, Score: 0.8041332364082336
+-----
+Raw Content: @marivalentimdf @jcaetanoleite Esse caso da Suzano foi um acordo que não foi cumprido https://t.co/pj7AIfMnSv no mais o MST é movimento de “luta" pela terra, por isso há as “invasões". E pq é origem desse movimento procure saber como foi o histórico de leis de terra no Brasil
+Cleaned Content: marivalentimdf jcaetanoleite Esse caso da Suzano foi um acordo que não foi cumprido httpstcopj7AIfMnSv no mais o MST é movimento de luta pela terra por isso há as invasões E pq é origem desse movimento procure saber como foi o histórico de leis de terra no Brasil
+Sentimento: positive, Score: 0.12141751497983932
+Sentimento: neutral, Score: 0.10969927161931992
+Sentimento: negative, Score: 0.768883228302002
+-----
+Raw Content: @arksiss @Henri1303 Isso tem influência de ideologias, especialmente as extremistas,os massacres ocorrem por influência de neo Nazismo,isso se valida pro caso de Suzano tbm https://t.co/5drlFmbV3Y
+Cleaned Content: arksiss Henri1303 Isso tem influência de ideologias especialmente as extremistasos massacres ocorrem por influência de neo Nazismoisso se valida pro caso de Suzano tbm httpstco5drlFmbV3Y
+Sentimento: positive, Score: 0.21056056022644043
+Sentimento: neutral, Score: 0.09355510771274567
+Sentimento: negative, Score: 0.6958843469619751
+-----
+Raw Content: Existe a maneira "mais fácil" de culpar para se livrar das responsabilidades como dis a pesquisadora Beatriz Blanco nessa entrevista no caso Suzano em São paulo em 2019 para o @theenemybr 
+
+https://t.co/yi28gdr8sl
+Cleaned Content: Existe a maneira mais fácil de culpar para se livrar das responsabilidades como dis a pesquisadora Beatriz Blanco nessa entrevista no caso Suzano em São paulo em 2019 para o theenemybr 
+
+httpstcoyi28gdr8sl
+Sentimento: positive, Score: 0.1672138124704361
+Sentimento: neutral, Score: 0.10843148082494736
+Sentimento: negative, Score: 0.7243547439575195
+-----
+Raw Content: quando tinha ocorrido o bagulho de suzano eu ia pra escola traçando plano de fuga caso quisessem fazer algo parecido, ficava igual um doente analisando minha sala
+Cleaned Content: quando tinha ocorrido o bagulho de suzano eu ia pra escola traçando plano de fuga caso quisessem fazer algo parecido ficava igual um doente analisando minha sala
+Sentimento: positive, Score: 0.19796797633171082
+Sentimento: neutral, Score: 0.07139641046524048
+Sentimento: negative, Score: 0.7306355834007263
+-----
+Raw Content: @C60827936Carlos @marcelvanhattem @alexandre Correto. Quando o MST invade uma propriedade legal e produtiva ele comete crime. É isso que precisa ficar claro. De quantas invasões ilegais do MST estamos falando. No caso da Suzano. https://t.co/ech7uXwJmE
+Cleaned Content: C60827936Carlos marcelvanhattem alexandre Correto Quando o MST invade uma propriedade legal e produtiva ele comete crime É isso que precisa ficar claro De quantas invasões ilegais do MST estamos falando No caso da Suzano httpstcoech7uXwJmE
+Sentimento: positive, Score: 0.11223307996988297
+Sentimento: neutral, Score: 0.11747832596302032
+Sentimento: negative, Score: 0.7702886462211609
+-----
+Raw Content: tô tendo que fazer um processo na faculdade relacionado aos atentados e eu não fazia ideia que o primeiro caso não tinha sido o de Suzano e sim em realengo
+Cleaned Content: tô tendo que fazer um processo na faculdade relacionado aos atentados e eu não fazia ideia que o primeiro caso não tinha sido o de Suzano e sim em realengo
+Sentimento: positive, Score: 0.09091129899024963
+Sentimento: neutral, Score: 0.4891311526298523
+Sentimento: negative, Score: 0.41995760798454285
+-----
+Raw Content: @stadoanarquista @ogunalaafia7 @sueofnow Não que eu discorde, mas há base legal pra isso?
+Lembrando que no caso de Suzano o adolescente era filho sem pai, de uma mãe dependente química. Ou seja, às vezes o problema pode nem ser a família, mas a falta de uma
+Cleaned Content: stadoanarquista ogunalaafia7 sueofnow Não que eu discorde mas há base legal pra isso
+Lembrando que no caso de Suzano o adolescente era filho sem pai de uma mãe dependente química Ou seja às vezes o problema pode nem ser a família mas a falta de uma
+Sentimento: positive, Score: 0.1595870703458786
+Sentimento: neutral, Score: 0.3043351173400879
+Sentimento: negative, Score: 0.5360777974128723
+-----
+Raw Content: Caraleio. Apareceu aqui um bando de homem de brotheragem porque tava pesquisando o caso de Suzano.
+Cleaned Content: Caraleio Apareceu aqui um bando de homem de brotheragem porque tava pesquisando o caso de Suzano
+Sentimento: positive, Score: 0.300112783908844
+Sentimento: neutral, Score: 0.14344513416290283
+Sentimento: negative, Score: 0.5564420819282532
+-----
+Raw Content: CASO COLÉGIO RAUL BRASIL
+
+Um adolescente e um homem encapuzados atacaram a Escola Estadual Raul Brasil, em Suzano (SP), e mataram sete pessoas, sendo cinco alunos e duas funcionárias do colégio. Em seguida, um dos assassinos atirou no comparsa e, então, se suicidou.
+Cleaned Content: CASO COLÉGIO RAUL BRASIL
+
+Um adolescente e um homem encapuzados atacaram a Escola Estadual Raul Brasil em Suzano SP e mataram sete pessoas sendo cinco alunos e duas funcionárias do colégio Em seguida um dos assassinos atirou no comparsa e então se suicidou
+Sentimento: positive, Score: 0.10662639141082764
+Sentimento: neutral, Score: 0.05972389131784439
+Sentimento: negative, Score: 0.833649754524231
+-----
+Raw Content: @jardlm pelo menos n vai ser o caso de suzano ou o de realengo
+Cleaned Content: jardlm pelo menos n vai ser o caso de suzano ou o de realengo
+Sentimento: positive, Score: 0.19517219066619873
+Sentimento: neutral, Score: 0.39915093779563904
+Sentimento: negative, Score: 0.40567681193351746
+-----
+Raw Content: @bruneraw @rainondoja @CrimesReais Caso de Suzano fazem 4 anos, o de Realengo fazem 12 anos, e os do sul acontecem um mês sim, um mês n
+Cleaned Content: bruneraw rainondoja CrimesReais Caso de Suzano fazem 4 anos o de Realengo fazem 12 anos e os do sul acontecem um mês sim um mês n
+Sentimento: positive, Score: 0.22728317975997925
+Sentimento: neutral, Score: 0.11924368888139725
+Sentimento: negative, Score: 0.6534730792045593
+-----
+Raw Content: É só estudar o caso do massacre da escola de Columbine. estudar a vida dos assassinos.
+
+Um caso brasileiro, Suzano, Estudar a vida dos assassinos de lá. 
+
+Se torna justificável?
+Cleaned Content: É só estudar o caso do massacre da escola de Columbine estudar a vida dos assassinos
+
+Um caso brasileiro Suzano Estudar a vida dos assassinos de lá 
+
+Se torna justificável
+Sentimento: positive, Score: 0.5186039209365845
+Sentimento: neutral, Score: 0.12510676681995392
+Sentimento: negative, Score: 0.3562892973423004
+-----
+Raw Content: @felipeneto É porque crianças e adolescentes para os quais você fez uma "brincadeira" chamada CASA, MATA OU TREPA, estimulou a entrar no submundo da internet após o caso de Suzano e ensinou e falou um monte de canalhices não podem portar armas, CANALHA.
+Sem testosterona FDP!
+Cleaned Content: felipeneto É porque crianças e adolescentes para os quais você fez uma brincadeira chamada CASA MATA OU TREPA estimulou a entrar no submundo da internet após o caso de Suzano e ensinou e falou um monte de canalhices não podem portar armas CANALHA
+Sem testosterona FDP
+Sentimento: positive, Score: 0.36313116550445557
+Sentimento: neutral, Score: 0.05477680265903473
+Sentimento: negative, Score: 0.5820920467376709
+-----
+Raw Content: Apenas uma vitória contra o Grêmio Prudente nesta quarta-feira mantém o União Suzano dependendo apenas de si para avançar às semifinais da Série A3. Em caso de derrota ou empate, o time vai depender de outros resultados no Grupo 3 #trsuzanao
+Cleaned Content: Apenas uma vitória contra o Grêmio Prudente nesta quartafeira mantém o União Suzano dependendo apenas de si para avançar às semifinais da Série A3 Em caso de derrota ou empate o time vai depender de outros resultados no Grupo 3 trsuzanao
+Sentimento: positive, Score: 0.42231637239456177
+Sentimento: neutral, Score: 0.22006060183048248
+Sentimento: negative, Score: 0.35762298107147217
+-----
+Raw Content: Aqui no Brasil, tivemos o terrível massacre da escola de Suzano, que aconteceu no dia 13 de março de 2019 (é, bem recente) que ceifou a vida de 8 alunos e o suicídio dos dois assassinos, chegou a ter Plantão na Globo abordando o caso, só pra ver o nype das coisas
+
++ (2)
+Cleaned Content: Aqui no Brasil tivemos o terrível massacre da escola de Suzano que aconteceu no dia 13 de março de 2019 é bem recente que ceifou a vida de 8 alunos e o suicídio dos dois assassinos chegou a ter Plantão na Globo abordando o caso só pra ver o nype das coisas
+
+ 2
+Sentimento: positive, Score: 0.0674436166882515
+Sentimento: neutral, Score: 0.053983986377716064
+Sentimento: negative, Score: 0.8785723447799683
+-----
+Raw Content: Sempre procurei fugir da lembrança de que um dia eu vi sobre esse caso, até que veio o m4ss4acre de Suzano, e foi como reviver a sensação de ter descoberto o de c0lumbine
+Cleaned Content: Sempre procurei fugir da lembrança de que um dia eu vi sobre esse caso até que veio o m4ss4acre de Suzano e foi como reviver a sensação de ter descoberto o de c0lumbine
+Sentimento: positive, Score: 0.2712858021259308
+Sentimento: neutral, Score: 0.12073342502117157
+Sentimento: negative, Score: 0.6079807877540588
+-----
+Raw Content: @paulogl300 tava lendo sobre o caso de Suzano e a mãe do.mlk simplesmente meteu essa https://t.co/P4QOZDSj0G
+Cleaned Content: paulogl300 tava lendo sobre o caso de Suzano e a mãe domlk simplesmente meteu essa httpstcoP4QOZDSj0G
+Sentimento: positive, Score: 0.3306630551815033
+Sentimento: neutral, Score: 0.19305285811424255
+Sentimento: negative, Score: 0.47628405690193176
+-----
+Raw Content: @FagnerAug @hagazo Só alguns pó tos sobre o MST, eles só invadem terras não produtivas, algumas delas inclusive que já possuem acordo para a invasão como foi o caso da Suzano celulose, que a Suzano não cumpriu acordo, o MST é  o maior produtor de arroz orgânico do país, grandes marcas compram dele
+Cleaned Content: FagnerAug hagazo Só alguns pó tos sobre o MST eles só invadem terras não produtivas algumas delas inclusive que já possuem acordo para a invasão como foi o caso da Suzano celulose que a Suzano não cumpriu acordo o MST é  o maior produtor de arroz orgânico do país grandes marcas compram dele
+Sentimento: positive, Score: 0.09440280497074127
+Sentimento: neutral, Score: 0.1150764673948288
+Sentimento: negative, Score: 0.7905207872390747
+-----
+Raw Content: #massacretwt a vdd e q vcs nunca vao conseguir refazer um caso de suzano ou columbine 🤷‍♂️
+Cleaned Content: massacretwt a vdd e q vcs nunca vao conseguir refazer um caso de suzano ou columbine
+Sentimento: positive, Score: 0.059972815215587616
+Sentimento: neutral, Score: 0.1558859944343567
+Sentimento: negative, Score: 0.7841412425041199
+-----
