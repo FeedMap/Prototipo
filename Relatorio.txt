@@ -1,0 +1,624 @@
+Raw Content: Prazer sou o kekel e é poucas comigo fih, gosto de dormi e jogar, odeio trabalhar e estudar.
+Meu estilo preferido de musica é funk putaria, sou viciado em anime e series, nao sou bonito mais sou gente https://t.co/CJay8Oms6P
+Cleaned Content: Prazer sou o kekel e é poucas comigo fih gosto de dormi e jogar odeio trabalhar e estudar
+Meu estilo preferido de musica é funk putaria sou viciado em anime e series nao sou bonito mais sou gente httpstcoCJay8Oms6P
+Sentimento: positive, Score: 0.578637957572937
+Sentimento: neutral, Score: 0.1337791085243225
+Sentimento: negative, Score: 0.2875829041004181
+-----
+Raw Content: Por que diffa, por que me fazes estudar num sábado logo eu que odeio matemática
+Cleaned Content: Por que diffa por que me fazes estudar num sábado logo eu que odeio matemática
+Sentimento: positive, Score: 0.05298282578587532
+Sentimento: neutral, Score: 0.06465528905391693
+Sentimento: negative, Score: 0.8823618292808533
+-----
+Raw Content: Realmente eu me ODEIO ao ponto de fazer 3 cursos + terminar a escola + estudar pro Enem e uerj
+Cleaned Content: Realmente eu me ODEIO ao ponto de fazer 3 cursos  terminar a escola  estudar pro Enem e uerj
+Sentimento: positive, Score: 0.5252247452735901
+Sentimento: neutral, Score: 0.1883036494255066
+Sentimento: negative, Score: 0.28647157549858093
+-----
+Raw Content: É complicado demais todo processo de vivenciar a semana da jogadora, estudar e cultivar todo trabalho duro pra no final faltar aquele golzinho pra concluir com a vitória. O processo é complicado, lidar com o sentimento e dor é uma das paradas que mais odeio nessa profissão.
+Cleaned Content: É complicado demais todo processo de vivenciar a semana da jogadora estudar e cultivar todo trabalho duro pra no final faltar aquele golzinho pra concluir com a vitória O processo é complicado lidar com o sentimento e dor é uma das paradas que mais odeio nessa profissão
+Sentimento: positive, Score: 0.2374100387096405
+Sentimento: neutral, Score: 0.08163156360387802
+Sentimento: negative, Score: 0.6809583902359009
+-----
+Raw Content: Estudando. Eu tava estudando e ela foi RIDÍCULA comigo. Se eu não estudo ela vem jogar na minha cara que eu relaxei,eu paro pra estudar e ela vem ser grosseira como se meu estudo não fosse mais importante e sim o que ela quer que eu faça. Sinceramente eu ODEIO os adultos.
+Cleaned Content: Estudando Eu tava estudando e ela foi RIDÍCULA comigo Se eu não estudo ela vem jogar na minha cara que eu relaxeieu paro pra estudar e ela vem ser grosseira como se meu estudo não fosse mais importante e sim o que ela quer que eu faça Sinceramente eu ODEIO os adultos
+Sentimento: positive, Score: 0.11006417870521545
+Sentimento: neutral, Score: 0.219954714179039
+Sentimento: negative, Score: 0.669981062412262
+-----
+Raw Content: @QGdoPOP Em outras palavras, ele disse: "Eu não odeio gays... desde que eles se escondam, pra q socializar e estudar ?.. se eles se esconderem, tá tudo certo 🤝🏼😁"
+Cleaned Content: QGdoPOP Em outras palavras ele disse Eu não odeio gays desde que eles se escondam pra q socializar e estudar  se eles se esconderem tá tudo certo
+Sentimento: positive, Score: 0.12172792851924896
+Sentimento: neutral, Score: 0.4379807114601135
+Sentimento: negative, Score: 0.4402914047241211
+-----
+Raw Content: odeio estudar
+Cleaned Content: odeio estudar
+Sentimento: positive, Score: 0.5275119543075562
+Sentimento: neutral, Score: 0.1849433332681656
+Sentimento: negative, Score: 0.28754478693008423
+-----
+Raw Content: odeio apresentar seminário odeio estudar pra isso
+Cleaned Content: odeio apresentar seminário odeio estudar pra isso
+Sentimento: positive, Score: 0.4068775773048401
+Sentimento: neutral, Score: 0.13552825152873993
+Sentimento: negative, Score: 0.45759421586990356
+-----
+Raw Content: cara eu odeio sábado pq eu fico empurrando geografia até não da mais, ai hj sou obrigada a estudar ela.
+Cleaned Content: cara eu odeio sábado pq eu fico empurrando geografia até não da mais ai hj sou obrigada a estudar ela
+Sentimento: positive, Score: 0.09182027727365494
+Sentimento: neutral, Score: 0.08148982375860214
+Sentimento: negative, Score: 0.8266899585723877
+-----
+Raw Content: odeio estudar sistema reprodutor masculino 😭😭😭
+Cleaned Content: odeio estudar sistema reprodutor masculino
+Sentimento: positive, Score: 0.525725245475769
+Sentimento: neutral, Score: 0.1473870575428009
+Sentimento: negative, Score: 0.32688772678375244
+-----
+Raw Content: Eu odeio estudar
+Cleaned Content: Eu odeio estudar
+Sentimento: positive, Score: 0.37342262268066406
+Sentimento: neutral, Score: 0.19278307259082794
+Sentimento: negative, Score: 0.4337943196296692
+-----
+Raw Content: deus me leva logo eu odeio estudar
+Cleaned Content: deus me leva logo eu odeio estudar
+Sentimento: positive, Score: 0.10805422067642212
+Sentimento: neutral, Score: 0.08144507557153702
+Sentimento: negative, Score: 0.8105007410049438
+-----
+Raw Content: ODEIO ESTUDAR
+Cleaned Content: ODEIO ESTUDAR
+Sentimento: positive, Score: 0.5335786938667297
+Sentimento: neutral, Score: 0.18426573276519775
+Sentimento: negative, Score: 0.2821555733680725
+-----
+Raw Content: nossa odeio ter que estudar
+Cleaned Content: nossa odeio ter que estudar
+Sentimento: positive, Score: 0.05445120483636856
+Sentimento: neutral, Score: 0.05338795483112335
+Sentimento: negative, Score: 0.8921608328819275
+-----
+Raw Content: odeio estudar queria se igual minha avo q ganha salario bom todo mes é aposentada nao faz nada da vida só ve novela do viva o dia todo https://t.co/5HGWaqmyMr
+Cleaned Content: odeio estudar queria se igual minha avo q ganha salario bom todo mes é aposentada nao faz nada da vida só ve novela do viva o dia todo httpstco5HGWaqmyMr
+Sentimento: positive, Score: 0.5208672285079956
+Sentimento: neutral, Score: 0.11335418373346329
+Sentimento: negative, Score: 0.3657785952091217
+-----
+Raw Content: eu qro ficar la por mt tempo ainda mt😅😅😅assim, pelo menos mais uns 5 anos sabe, pelo menos KKKKKKKKKKKKKKKKK ai p mim entrar em um emprego melhor teria q fazer uma faculdade e afffff odeio trabalhar e estudar😣trabalhei e estudei por uns 2 anos e meio e foi traumatico p mi
+Cleaned Content: eu qro ficar la por mt tempo ainda mtassim pelo menos mais uns 5 anos sabe pelo menos KKKKKKKKKKKKKKKKK ai p mim entrar em um emprego melhor teria q fazer uma faculdade e afffff odeio trabalhar e estudartrabalhei e estudei por uns 2 anos e meio e foi traumatico p mi
+Sentimento: positive, Score: 0.07302211970090866
+Sentimento: neutral, Score: 0.08861128985881805
+Sentimento: negative, Score: 0.8383665680885315
+-----
+Raw Content: MDS COMO EU ODEIO ESTUDAR FISIOLOGIA DE PLANTA 
+
+AAAAAAAAAAAAAAAAAAAAH
+Cleaned Content: MDS COMO EU ODEIO ESTUDAR FISIOLOGIA DE PLANTA 
+
+AAAAAAAAAAAAAAAAAAAAH
+Sentimento: positive, Score: 0.5947222113609314
+Sentimento: neutral, Score: 0.14995253086090088
+Sentimento: negative, Score: 0.2553252875804901
+-----
+Raw Content: MDS MANO EU ODEIO A MINHA PROFESSORA ELA PASSOU 3 CAPÍTULOS PRA EU ESTUDAR PRA QUINTA FEIRA VSFD QUE RAIVA
+Cleaned Content: MDS MANO EU ODEIO A MINHA PROFESSORA ELA PASSOU 3 CAPÍTULOS PRA EU ESTUDAR PRA QUINTA FEIRA VSFD QUE RAIVA
+Sentimento: positive, Score: 0.5138152837753296
+Sentimento: neutral, Score: 0.16439108550548553
+Sentimento: negative, Score: 0.32179364562034607
+-----
+Raw Content: ai hora de trocar de personalidade de novo. odeio ter q estudar
+Cleaned Content: ai hora de trocar de personalidade de novo odeio ter q estudar
+Sentimento: positive, Score: 0.14240878820419312
+Sentimento: neutral, Score: 0.11761423200368881
+Sentimento: negative, Score: 0.7399769425392151
+-----
+Raw Content: para todas as mulheres, PRINCIPALMENTE as que tem menos de 25 anos que são heteros e ficam choramingando por nao namorar, odeio vocês. Vão estudar e se realizar profissionalmente até que apareça alguém que agregue suas vidas, beijo.
+Cleaned Content: para todas as mulheres PRINCIPALMENTE as que tem menos de 25 anos que são heteros e ficam choramingando por nao namorar odeio vocês Vão estudar e se realizar profissionalmente até que apareça alguém que agregue suas vidas beijo
+Sentimento: positive, Score: 0.12906698882579803
+Sentimento: neutral, Score: 0.0949908047914505
+Sentimento: negative, Score: 0.7759422063827515
+-----
+Raw Content: aí como eu ODEIO esse lugar, nn tem um táxi, um ônibus nessa porra.  o povo diz q é só estudar, como CARALHOS eu vou estudar sendo q essa bosta nn tem um transporte pr eu poder ir?
+Cleaned Content: aí como eu ODEIO esse lugar nn tem um táxi um ônibus nessa porra  o povo diz q é só estudar como CARALHOS eu vou estudar sendo q essa bosta nn tem um transporte pr eu poder ir
+Sentimento: positive, Score: 0.283317893743515
+Sentimento: neutral, Score: 0.19192306697368622
+Sentimento: negative, Score: 0.52475905418396
+-----
+Raw Content: Eu ODEIO estudar lei
+Cleaned Content: Eu ODEIO estudar lei
+Sentimento: positive, Score: 0.580439567565918
+Sentimento: neutral, Score: 0.1926828771829605
+Sentimento: negative, Score: 0.2268775999546051
+-----
+Raw Content: @ChoqueiTrap Alguém denuncia isso por transfobia?
+Cleaned Content: ChoqueiTrap Alguém denuncia isso por transfobia
+Sentimento: positive, Score: 0.11147473752498627
+Sentimento: neutral, Score: 0.11309114843606949
+Sentimento: negative, Score: 0.7754340767860413
+-----
+Raw Content: Eu odeio matemática cr e já não basta estudar pra concurso, esse semestre vai ter matematica financeira na faculdade 🤡🤡
+Cleaned Content: Eu odeio matemática cr e já não basta estudar pra concurso esse semestre vai ter matematica financeira na faculdade
+Sentimento: positive, Score: 0.05724117159843445
+Sentimento: neutral, Score: 0.08894737809896469
+Sentimento: negative, Score: 0.8538114428520203
+-----
+Raw Content: muita vontade de ir estudar mais, mas sono dms pra ir estudar, odeio esse impasse
+Cleaned Content: muita vontade de ir estudar mais mas sono dms pra ir estudar odeio esse impasse
+Sentimento: positive, Score: 0.28675320744514465
+Sentimento: neutral, Score: 0.1659000813961029
+Sentimento: negative, Score: 0.5473467111587524
+-----
+Raw Content: estou tonto de tanto tossir alguem me ajuda
+Cleaned Content: estou tonto de tanto tossir alguem me ajuda
+Sentimento: positive, Score: 0.5020015239715576
+Sentimento: neutral, Score: 0.10787840932607651
+Sentimento: negative, Score: 0.39012011885643005
+-----
+Raw Content: odeio odeio odeio estudar física
+Cleaned Content: odeio odeio odeio estudar física
+Sentimento: positive, Score: 0.3273126780986786
+Sentimento: neutral, Score: 0.14575748145580292
+Sentimento: negative, Score: 0.5269298553466797
+-----
+Raw Content: @ReiMbappe @Guelitosupremo @adrieltmarques @choquei QUE? vai estudar mlk pq tu nao sabe interpretar um bagulho simples
+
+eu falei que o único culpado é ele pq quem namora e deve satisfação e respeito é ele
+
+nunca ficaria com outro homem alem do meu namorado e odeio traição e é por isso que eu critico qualquer um que trai
+Cleaned Content: ReiMbappe Guelitosupremo adrieltmarques choquei QUE vai estudar mlk pq tu nao sabe interpretar um bagulho simples
+
+eu falei que o único culpado é ele pq quem namora e deve satisfação e respeito é ele
+
+nunca ficaria com outro homem alem do meu namorado e odeio traição e é por isso que eu critico qualquer um que trai
+Sentimento: positive, Score: 0.02885803021490574
+Sentimento: neutral, Score: 0.03679553419351578
+Sentimento: negative, Score: 0.9343464374542236
+-----
+Raw Content: agr ir dormir pra estudar o dia inteiro cinemática como eu odeio a minha vida
+Cleaned Content: agr ir dormir pra estudar o dia inteiro cinemática como eu odeio a minha vida
+Sentimento: positive, Score: 0.09953194111585617
+Sentimento: neutral, Score: 0.08168453723192215
+Sentimento: negative, Score: 0.8187835216522217
+-----
+Raw Content: vou ter que cancelar os roles de domingo pra estudar nesse caralho (odeio ser universitária)
+Cleaned Content: vou ter que cancelar os roles de domingo pra estudar nesse caralho odeio ser universitária
+Sentimento: positive, Score: 0.10729499161243439
+Sentimento: neutral, Score: 0.0974033921957016
+Sentimento: negative, Score: 0.7953016757965088
+-----
+Raw Content: @famoreno16 ainda n chegou não! Kkkkkk tomei pq achei q podia ajudar pra estudar, ajudou um pouco simmm! 
+
+MAS MANO tipo um café quente normal sem ser pelando já tá bom! KKKKKKKKK deve ser ruim frio mas nossa juro eu odeio coisa pelando
+Cleaned Content: famoreno16 ainda n chegou não Kkkkkk tomei pq achei q podia ajudar pra estudar ajudou um pouco simmm 
+
+MAS MANO tipo um café quente normal sem ser pelando já tá bom KKKKKKKKK deve ser ruim frio mas nossa juro eu odeio coisa pelando
+Sentimento: positive, Score: 0.21535493433475494
+Sentimento: neutral, Score: 0.24656865000724792
+Sentimento: negative, Score: 0.5380764007568359
+-----
+Raw Content: todos os dias eu me questiono o pq do meu cabelo ter tanto volume se alguns anos atras essa porra era liso lambido p baixo, fica reto porra
+Cleaned Content: todos os dias eu me questiono o pq do meu cabelo ter tanto volume se alguns anos atras essa porra era liso lambido p baixo fica reto porra
+Sentimento: positive, Score: 0.2539729177951813
+Sentimento: neutral, Score: 0.17760860919952393
+Sentimento: negative, Score: 0.5684184432029724
+-----
+Raw Content: estou morrendo de tanto tossir
+Cleaned Content: estou morrendo de tanto tossir
+Sentimento: positive, Score: 0.14923043549060822
+Sentimento: neutral, Score: 0.1020837351679802
+Sentimento: negative, Score: 0.7486857771873474
+-----
+Raw Content: Tenho q estudar química orgânica,  odeio minha vida
+Cleaned Content: Tenho q estudar química orgânica  odeio minha vida
+Sentimento: positive, Score: 0.1944092959165573
+Sentimento: neutral, Score: 0.1265169233083725
+Sentimento: negative, Score: 0.6790738105773926
+-----
+Raw Content: As vezes eu odeio estudar em colégio militar
+Cleaned Content: As vezes eu odeio estudar em colégio militar
+Sentimento: positive, Score: 0.07996071130037308
+Sentimento: neutral, Score: 0.08421596884727478
+Sentimento: negative, Score: 0.8358233571052551
+-----
+Raw Content: Eu odeio estudar
+Cleaned Content: Eu odeio estudar
+Sentimento: positive, Score: 0.37342262268066406
+Sentimento: neutral, Score: 0.19278307259082794
+Sentimento: negative, Score: 0.4337943196296692
+-----
+Raw Content: já é o segundo dia que eu tento estudar pra esse seminário e nada eu odeio tanto meu psicológico que não me deixa me concentrar
+Cleaned Content: já é o segundo dia que eu tento estudar pra esse seminário e nada eu odeio tanto meu psicológico que não me deixa me concentrar
+Sentimento: positive, Score: 0.09561101347208023
+Sentimento: neutral, Score: 0.32230472564697266
+Sentimento: negative, Score: 0.5820842981338501
+-----
+Raw Content: aí como odeio estudar um conteúdo que eu odeio
+Cleaned Content: aí como odeio estudar um conteúdo que eu odeio
+Sentimento: positive, Score: 0.08188098669052124
+Sentimento: neutral, Score: 0.07737310975790024
+Sentimento: negative, Score: 0.8407459259033203
+-----
+Raw Content: serassi me sai muito ruim na prova de hj? simples odio direito e todos esses artigos (odeio estudar)
+Cleaned Content: serassi me sai muito ruim na prova de hj simples odio direito e todos esses artigos odeio estudar
+Sentimento: positive, Score: 0.08359111100435257
+Sentimento: neutral, Score: 0.04402071610093117
+Sentimento: negative, Score: 0.8723881840705872
+-----
+Raw Content: nao consigo explicar o quanto eu odeio o ensino medjo o quanto eu odeio estudar odeio ir pra escola odeio fisica biologia química odeio aqueles professores
+Cleaned Content: nao consigo explicar o quanto eu odeio o ensino medjo o quanto eu odeio estudar odeio ir pra escola odeio fisica biologia química odeio aqueles professores
+Sentimento: positive, Score: 0.19719566404819489
+Sentimento: neutral, Score: 0.10147441178560257
+Sentimento: negative, Score: 0.7013298869132996
+-----
+Raw Content: Off: espero ficar sem professor de português até as aulas acabarem, odeio português, sou péssimo, além de me dar mais tempo para estudar
+Cleaned Content: Off espero ficar sem professor de português até as aulas acabarem odeio português sou péssimo além de me dar mais tempo para estudar
+Sentimento: positive, Score: 0.167360320687294
+Sentimento: neutral, Score: 0.09603188931941986
+Sentimento: negative, Score: 0.7366078495979309
+-----
+Raw Content: odeio estudar meu Deus
+Cleaned Content: odeio estudar meu Deus
+Sentimento: positive, Score: 0.6582291722297668
+Sentimento: neutral, Score: 0.1061243861913681
+Sentimento: negative, Score: 0.23564650118350983
+-----
+Raw Content: falta estudar dois assuntos que eu não sei nada da matéria que eu odeio, e eu vim assistir filme com a minha mãe, gosto de viver perigosamente
+Cleaned Content: falta estudar dois assuntos que eu não sei nada da matéria que eu odeio e eu vim assistir filme com a minha mãe gosto de viver perigosamente
+Sentimento: positive, Score: 0.09232263267040253
+Sentimento: neutral, Score: 0.24259072542190552
+Sentimento: negative, Score: 0.6650866270065308
+-----
+Raw Content: sextou hj lendo e tomando chazinho q vida miseravel odeio estudar odeio curso odeio ingles nossa q odio
+Cleaned Content: sextou hj lendo e tomando chazinho q vida miseravel odeio estudar odeio curso odeio ingles nossa q odio
+Sentimento: positive, Score: 0.11922436952590942
+Sentimento: neutral, Score: 0.08180610090494156
+Sentimento: negative, Score: 0.7989695072174072
+-----
+Raw Content: @sofiafonttes vo la da proxima vez ve se acho algo
+Cleaned Content: sofiafonttes vo la da proxima vez ve se acho algo
+Sentimento: positive, Score: 0.40229570865631104
+Sentimento: neutral, Score: 0.21486090123653412
+Sentimento: negative, Score: 0.38284340500831604
+-----
+Raw Content: 0 vontade de estudar geografia 
+o assunto eh mó legal, mas odeio copiar
+Cleaned Content: 0 vontade de estudar geografia 
+o assunto eh mó legal mas odeio copiar
+Sentimento: positive, Score: 0.23524074256420135
+Sentimento: neutral, Score: 0.21079754829406738
+Sentimento: negative, Score: 0.5539616942405701
+-----
+Raw Content: @sofiafonttes mamae foi la e disse q nao achou nenhuma q combinasse cmg😭
+Cleaned Content: sofiafonttes mamae foi la e disse q nao achou nenhuma q combinasse cmg
+Sentimento: positive, Score: 0.20265734195709229
+Sentimento: neutral, Score: 0.2989785373210907
+Sentimento: negative, Score: 0.49836409091949463
+-----
+Raw Content: odeio estudar pqp https://t.co/ynrTgssH7W
+Cleaned Content: odeio estudar pqp httpstcoynrTgssH7W
+Sentimento: positive, Score: 0.5731189250946045
+Sentimento: neutral, Score: 0.18926779925823212
+Sentimento: negative, Score: 0.2376132756471634
+-----
+Raw Content: Eu odeio o fato de eu odiar estudar e mesmo assim ter que estudar p caralho conseguir oq eu quero
+Cleaned Content: Eu odeio o fato de eu odiar estudar e mesmo assim ter que estudar p caralho conseguir oq eu quero
+Sentimento: positive, Score: 0.020202163606882095
+Sentimento: neutral, Score: 0.023622089996933937
+Sentimento: negative, Score: 0.9561757445335388
+-----
+Raw Content: ASR ODEIO ESTUDAR SEM TEVLADO VOU ME MATAR
+Cleaned Content: ASR ODEIO ESTUDAR SEM TEVLADO VOU ME MATAR
+Sentimento: positive, Score: 0.5215555429458618
+Sentimento: neutral, Score: 0.18629753589630127
+Sentimento: negative, Score: 0.2921468913555145
+-----
+Raw Content: eu odeio estudar historia meu deus vai se fuder
+Cleaned Content: eu odeio estudar historia meu deus vai se fuder
+Sentimento: positive, Score: 0.04027189314365387
+Sentimento: neutral, Score: 0.05731040611863136
+Sentimento: negative, Score: 0.9024177193641663
+-----
+Raw Content: odeio estudar gripada odeio
+Cleaned Content: odeio estudar gripada odeio
+Sentimento: positive, Score: 0.4498457908630371
+Sentimento: neutral, Score: 0.15235476195812225
+Sentimento: negative, Score: 0.39779946208000183
+-----
+Raw Content: amo a aula de cabral, mas odeio estudar as matérias de cabral pqp
+Cleaned Content: amo a aula de cabral mas odeio estudar as matérias de cabral pqp
+Sentimento: positive, Score: 0.07550401240587234
+Sentimento: neutral, Score: 0.10021906346082687
+Sentimento: negative, Score: 0.8242769241333008
+-----
+Raw Content: Manchoooo!  Odeio estudar por esse livro de genética, as folhas parece um espelho de tanto que fica refletindo a imagem da luz, minha vista já fica logo doendo. 😖 https://t.co/S0WhdYvo43
+Cleaned Content: Manchoooo  Odeio estudar por esse livro de genética as folhas parece um espelho de tanto que fica refletindo a imagem da luz minha vista já fica logo doendo  httpstcoS0WhdYvo43
+Sentimento: positive, Score: 0.3509083688259125
+Sentimento: neutral, Score: 0.1252664178609848
+Sentimento: negative, Score: 0.5238252282142639
+-----
+Raw Content: Velho odeio ser bancada por qualquer um,mas cara imagina,eu não trabalho só ganho um salário mixuruca do governo pra estudar,como vou sustentar role todo final de semana?…a caga
+Cleaned Content: Velho odeio ser bancada por qualquer ummas cara imaginaeu não trabalho só ganho um salário mixuruca do governo pra estudarcomo vou sustentar role todo final de semanaa caga
+Sentimento: positive, Score: 0.09902109205722809
+Sentimento: neutral, Score: 0.10547852516174316
+Sentimento: negative, Score: 0.7955003976821899
+-----
+Raw Content: Odeio estudar e não ir bem na prova vtmnc
+Cleaned Content: Odeio estudar e não ir bem na prova vtmnc
+Sentimento: positive, Score: 0.2311270385980606
+Sentimento: neutral, Score: 0.44276344776153564
+Sentimento: negative, Score: 0.32610952854156494
+-----
+Raw Content: ai odeio estudar essa matéria
+Cleaned Content: ai odeio estudar essa matéria
+Sentimento: positive, Score: 0.10032738000154495
+Sentimento: neutral, Score: 0.09716267138719559
+Sentimento: negative, Score: 0.8025099635124207
+-----
+Raw Content: NÃOOO
+Cleaned Content: NÃOOO
+Sentimento: positive, Score: 0.4692547917366028
+Sentimento: neutral, Score: 0.21352648735046387
+Sentimento: negative, Score: 0.31721869111061096
+-----
+Raw Content: primeira vez q eu como oniom rings inclusive, muito bom
+Cleaned Content: primeira vez q eu como oniom rings inclusive muito bom
+Sentimento: positive, Score: 0.561146080493927
+Sentimento: neutral, Score: 0.10209212452173233
+Sentimento: negative, Score: 0.3367617726325989
+-----
+Raw Content: QUE DELICIA https://t.co/hhORDsURAe
+Cleaned Content: QUE DELICIA httpstcohhORDsURAe
+Sentimento: positive, Score: 0.5605911016464233
+Sentimento: neutral, Score: 0.16461624205112457
+Sentimento: negative, Score: 0.2747926115989685
+-----
+Raw Content: 1 ano de faculdade já deu para eu perceber que os métodos de estudo fancy não dão para mim. Das duas uma: ou amo a cadeira e aí não me custa estudar (TC e Economia) ou odeio e vai na base do ódio (CC)
+Cleaned Content: 1 ano de faculdade já deu para eu perceber que os métodos de estudo fancy não dão para mim Das duas uma ou amo a cadeira e aí não me custa estudar TC e Economia ou odeio e vai na base do ódio CC
+Sentimento: positive, Score: 0.10115410387516022
+Sentimento: neutral, Score: 0.19577831029891968
+Sentimento: negative, Score: 0.7030676603317261
+-----
+Raw Content: https://t.co/NO1aLZTVZx
+Cleaned Content: httpstcoNO1aLZTVZx
+Sentimento: positive, Score: 0.5196322202682495
+Sentimento: neutral, Score: 0.2248074859380722
+Sentimento: negative, Score: 0.2555602788925171
+-----
+Raw Content: @rubens97otavio eu comprei 15 marcatextos, 10 canetas e odeio estudar
+Cleaned Content: rubens97otavio eu comprei 15 marcatextos 10 canetas e odeio estudar
+Sentimento: positive, Score: 0.1391308456659317
+Sentimento: neutral, Score: 0.10316771268844604
+Sentimento: negative, Score: 0.7577014565467834
+-----
+Raw Content: Minhas costas doem, minha mão dói, porém eu consegui finalmente estudar de forma decente essa matéria que odeio do fundo do coração.
+Cleaned Content: Minhas costas doem minha mão dói porém eu consegui finalmente estudar de forma decente essa matéria que odeio do fundo do coração
+Sentimento: positive, Score: 0.3328927457332611
+Sentimento: neutral, Score: 0.07478296011686325
+Sentimento: negative, Score: 0.5923243165016174
+-----
+Raw Content: qria mto essa bolsinha da miffy viu
+Cleaned Content: qria mto essa bolsinha da miffy viu
+Sentimento: positive, Score: 0.35680097341537476
+Sentimento: neutral, Score: 0.1929834485054016
+Sentimento: negative, Score: 0.45021551847457886
+-----
+Raw Content: odeio física odeio estudar odeio viver
+Cleaned Content: odeio física odeio estudar odeio viver
+Sentimento: positive, Score: 0.5410810708999634
+Sentimento: neutral, Score: 0.16268903017044067
+Sentimento: negative, Score: 0.29622989892959595
+-----
+Raw Content: odeio estudar e não entender o conteúdo
+Cleaned Content: odeio estudar e não entender o conteúdo
+Sentimento: positive, Score: 0.023408379405736923
+Sentimento: neutral, Score: 0.14141549170017242
+Sentimento: negative, Score: 0.8351761698722839
+-----
+Raw Content: odeio estudar
+Cleaned Content: odeio estudar
+Sentimento: positive, Score: 0.5275119543075562
+Sentimento: neutral, Score: 0.1849433332681656
+Sentimento: negative, Score: 0.28754478693008423
+-----
+Raw Content: Odeio quando não consigo estudar,eu me sinto tão insuficiente,tipo não consigo fazer uma simples atividade,minhas amigas com certeza já terminaram ou estão quase e eu ? Eu estou surtando aqui querendo jogar o meu caderno no lixo
+Cleaned Content: Odeio quando não consigo estudareu me sinto tão insuficientetipo não consigo fazer uma simples atividademinhas amigas com certeza já terminaram ou estão quase e eu  Eu estou surtando aqui querendo jogar o meu caderno no lixo
+Sentimento: positive, Score: 0.1307975798845291
+Sentimento: neutral, Score: 0.22564974427223206
+Sentimento: negative, Score: 0.6435527205467224
+-----
+Raw Content: Jesus como eu odeio RH, pq faço adm pra estudar como lidar com gente???
+Cleaned Content: Jesus como eu odeio RH pq faço adm pra estudar como lidar com gente
+Sentimento: positive, Score: 0.07627151161432266
+Sentimento: neutral, Score: 0.06474322825670242
+Sentimento: negative, Score: 0.8589853048324585
+-----
+Raw Content: Eu odeio estudar, vou em matar, desgraça de trabalho, um inferno esse diacho
+Cleaned Content: Eu odeio estudar vou em matar desgraça de trabalho um inferno esse diacho
+Sentimento: positive, Score: 0.018363790586590767
+Sentimento: neutral, Score: 0.020104192197322845
+Sentimento: negative, Score: 0.9615319967269897
+-----
+Raw Content: odeio estudar 👍🏽
+Cleaned Content: odeio estudar
+Sentimento: positive, Score: 0.5275119543075562
+Sentimento: neutral, Score: 0.1849433332681656
+Sentimento: negative, Score: 0.28754478693008423
+-----
+Raw Content: @PopOnze Gente para de postar sobre esse ser humano.
+Cleaned Content: PopOnze Gente para de postar sobre esse ser humano
+Sentimento: positive, Score: 0.5655306577682495
+Sentimento: neutral, Score: 0.12402302771806717
+Sentimento: negative, Score: 0.31044626235961914
+-----
+Raw Content: EU ODEIO ESTUDAR https://t.co/O3rp9YXkRs
+Cleaned Content: EU ODEIO ESTUDAR httpstcoO3rp9YXkRs
+Sentimento: positive, Score: 0.5403064489364624
+Sentimento: neutral, Score: 0.19003018736839294
+Sentimento: negative, Score: 0.26966333389282227
+-----
+Raw Content: eu ja disse que ODEIO estudar história????
+Cleaned Content: eu ja disse que ODEIO estudar história
+Sentimento: positive, Score: 0.4945341646671295
+Sentimento: neutral, Score: 0.196528822183609
+Sentimento: negative, Score: 0.30893704295158386
+-----
+Raw Content: nmrl, isso é triste dms, pensar q vc tem q negar q vc realmente é por conta d uma religião
+Cleaned Content: nmrl isso é triste dms pensar q vc tem q negar q vc realmente é por conta d uma religião
+Sentimento: positive, Score: 0.014119046740233898
+Sentimento: neutral, Score: 0.024378402158617973
+Sentimento: negative, Score: 0.9615025520324707
+-----
+Raw Content: eu odeio estudar pqp. não sei amis estudar. canso. disperso. não tem resultado. e isso é só para a escola.
+Cleaned Content: eu odeio estudar pqp não sei amis estudar canso disperso não tem resultado e isso é só para a escola
+Sentimento: positive, Score: 0.04459883272647858
+Sentimento: neutral, Score: 0.18087173998355865
+Sentimento: negative, Score: 0.7745294570922852
+-----
+Raw Content: @kay_mglhs na shein demora mto p chegar😭😭😭😭
+Cleaned Content: kay_mglhs na shein demora mto p chegar
+Sentimento: positive, Score: 0.3685009479522705
+Sentimento: neutral, Score: 0.2418317049741745
+Sentimento: negative, Score: 0.3896673321723938
+-----
+Raw Content: eu sou boa em química mas odeio estudar química
+Cleaned Content: eu sou boa em química mas odeio estudar química
+Sentimento: positive, Score: 0.21992570161819458
+Sentimento: neutral, Score: 0.11549822986125946
+Sentimento: negative, Score: 0.6645760536193848
+-----
+Raw Content: pq ele meteu a boca na massa desse jeito meu deus
+Cleaned Content: pq ele meteu a boca na massa desse jeito meu deus
+Sentimento: positive, Score: 0.30247989296913147
+Sentimento: neutral, Score: 0.12399818748235703
+Sentimento: negative, Score: 0.5735219120979309
+-----
+Raw Content: qieria umas presilhas bem fofinhas mas n acho rm lugar nenhum
+Cleaned Content: qieria umas presilhas bem fofinhas mas n acho rm lugar nenhum
+Sentimento: positive, Score: 0.21808022260665894
+Sentimento: neutral, Score: 0.3635583221912384
+Sentimento: negative, Score: 0.41836148500442505
+-----
+Raw Content: odeio estudar, odeio
+Cleaned Content: odeio estudar odeio
+Sentimento: positive, Score: 0.4459652006626129
+Sentimento: neutral, Score: 0.17157573997974396
+Sentimento: negative, Score: 0.38245901465415955
+-----
+Raw Content: odeio genética, n sei estudar pra essa coisa ☠
+Cleaned Content: odeio genética n sei estudar pra essa coisa
+Sentimento: positive, Score: 0.051313336938619614
+Sentimento: neutral, Score: 0.11360275745391846
+Sentimento: negative, Score: 0.8350839018821716
+-----
+Raw Content: Descobrir que eu odeio estudar microbiologia, depois dessa matéria eu não quero escutar ninguém falando sobre bactérias, fungos, vírus ou até mesmo células. Pqp
+Cleaned Content: Descobrir que eu odeio estudar microbiologia depois dessa matéria eu não quero escutar ninguém falando sobre bactérias fungos vírus ou até mesmo células Pqp
+Sentimento: positive, Score: 0.044649846851825714
+Sentimento: neutral, Score: 0.11307578533887863
+Sentimento: negative, Score: 0.8422743678092957
+-----
+Raw Content: odeio ter q realmente estudar conteúdo q foi passado em sala
+me sinto burra por nao aprender na hora
+Cleaned Content: odeio ter q realmente estudar conteúdo q foi passado em sala
+me sinto burra por nao aprender na hora
+Sentimento: positive, Score: 0.10707996785640717
+Sentimento: neutral, Score: 0.12650138139724731
+Sentimento: negative, Score: 0.7664186358451843
+-----
+Raw Content: @twyttz_ eu odeio estudar direito
+Cleaned Content: twyttz_ eu odeio estudar direito
+Sentimento: positive, Score: 0.4324944019317627
+Sentimento: neutral, Score: 0.20438383519649506
+Sentimento: negative, Score: 0.36312171816825867
+-----
+Raw Content: Meu deus como eu odeio o sistema feminino É MUITO MAIS COISA PRA ESTUDAR DO QUE O MASC.
+Cleaned Content: Meu deus como eu odeio o sistema feminino É MUITO MAIS COISA PRA ESTUDAR DO QUE O MASC
+Sentimento: positive, Score: 0.09357274323701859
+Sentimento: neutral, Score: 0.05005389079451561
+Sentimento: negative, Score: 0.8563733696937561
+-----
+Raw Content: odeio estudar humanas vsfd
+Cleaned Content: odeio estudar humanas vsfd
+Sentimento: positive, Score: 0.3356219232082367
+Sentimento: neutral, Score: 0.14626631140708923
+Sentimento: negative, Score: 0.5181117653846741
+-----
+Raw Content: odeio estudar
+https://t.co/rtkXzfy7KS
+Cleaned Content: odeio estudar
+httpstcortkXzfy7KS
+Sentimento: positive, Score: 0.5884605646133423
+Sentimento: neutral, Score: 0.18579429388046265
+Sentimento: negative, Score: 0.2257450819015503
+-----
+Raw Content: odeio q quando eu vou estudar o tempo passa mt rápido e parece q eu estudei mt pouco
+Cleaned Content: odeio q quando eu vou estudar o tempo passa mt rápido e parece q eu estudei mt pouco
+Sentimento: positive, Score: 0.040284834802150726
+Sentimento: neutral, Score: 0.07004760950803757
+Sentimento: negative, Score: 0.8896675705909729
+-----
+Raw Content: como eu odeio estudar inglês pqp 🤡
+Cleaned Content: como eu odeio estudar inglês pqp
+Sentimento: positive, Score: 0.0820474922657013
+Sentimento: neutral, Score: 0.11086468398571014
+Sentimento: negative, Score: 0.8070878386497498
+-----
+Raw Content: @Maumsslindao como é q vc nao gosta de paçoca
+Cleaned Content: Maumsslindao como é q vc nao gosta de paçoca
+Sentimento: positive, Score: 0.316765695810318
+Sentimento: neutral, Score: 0.24567261338233948
+Sentimento: negative, Score: 0.43756163120269775
+-----
+Raw Content: odeio o hábito que tenho de só conseguir me concentrar para estudar de madrugada
+Cleaned Content: odeio o hábito que tenho de só conseguir me concentrar para estudar de madrugada
+Sentimento: positive, Score: 0.05380791425704956
+Sentimento: neutral, Score: 0.039264172315597534
+Sentimento: negative, Score: 0.9069279432296753
+-----
+Raw Content: odeio estudar antropologia, ainda bem que já consegui me livrar dessa matéria
+Cleaned Content: odeio estudar antropologia ainda bem que já consegui me livrar dessa matéria
+Sentimento: positive, Score: 0.20841777324676514
+Sentimento: neutral, Score: 0.09049653261899948
+Sentimento: negative, Score: 0.7010856866836548
+-----
+Raw Content: Odeio a parte do pomodoro que tem que voltar a estudar
+Cleaned Content: Odeio a parte do pomodoro que tem que voltar a estudar
+Sentimento: positive, Score: 0.7541841268539429
+Sentimento: neutral, Score: 0.08051345497369766
+Sentimento: negative, Score: 0.16530242562294006
+-----
+Raw Content: eu odeio estudar fico com ansiedade raiva e me sinto uma inútil
+Cleaned Content: eu odeio estudar fico com ansiedade raiva e me sinto uma inútil
+Sentimento: positive, Score: 0.05927211046218872
+Sentimento: neutral, Score: 0.04838014021515846
+Sentimento: negative, Score: 0.8923477530479431
+-----
+Raw Content: @amysnatiago SIM, FODASE TERMINAR O ENSINO MÉDIO, ODEIO ESTUDAR (sei nem se vou passar pro 3º, tô fudido esse não kkk)
+Cleaned Content: amysnatiago SIM FODASE TERMINAR O ENSINO MÉDIO ODEIO ESTUDAR sei nem se vou passar pro 3º tô fudido esse não kkk
+Sentimento: positive, Score: 0.22450309991836548
+Sentimento: neutral, Score: 0.23752979934215546
+Sentimento: negative, Score: 0.5379670858383179
+-----
+Raw Content: odeio estudar, vsf pra q existir prova mano
+Cleaned Content: odeio estudar vsf pra q existir prova mano
+Sentimento: positive, Score: 0.2763330638408661
+Sentimento: neutral, Score: 0.24354387819766998
+Sentimento: negative, Score: 0.48012304306030273
+-----
+Raw Content: odeio estudar pra artes 😭😭
+Cleaned Content: odeio estudar pra artes
+Sentimento: positive, Score: 0.5859996676445007
+Sentimento: neutral, Score: 0.1430249661207199
+Sentimento: negative, Score: 0.27097538113594055
+-----
+Raw Content: eu odeio prova pq nunca sei oq o professor vai cobrar e fico perdida no que estudar e como pq o conteúdo deles tão desatualizado que se eu botar uma videoaula agora, vou errar tudo
+Cleaned Content: eu odeio prova pq nunca sei oq o professor vai cobrar e fico perdida no que estudar e como pq o conteúdo deles tão desatualizado que se eu botar uma videoaula agora vou errar tudo
+Sentimento: positive, Score: 0.020156316459178925
+Sentimento: neutral, Score: 0.05292147770524025
+Sentimento: negative, Score: 0.9269222021102905
+-----
