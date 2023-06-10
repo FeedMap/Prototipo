@@ -14,7 +14,7 @@
             } 
         },
         colors: [
-            "#1765fd", 
+            "#EABD04", 
             "#bbc6cf"
         ],
         dataLabels: { 
@@ -94,8 +94,8 @@
             "Lesson Discuss"
         ], 
         colors: [
-            "#4FCB8D", 
-            "#1765FD", 
+            "#000000", 
+            "#EABD04", 
         ], 
         legend: { 
             show: !1 
@@ -187,7 +187,7 @@
             lineCap: "round" 
         },
         colors: [
-            "#4FCB8D"
+            "#000000"
         ],
         fill: { 
             type: "gradient", 
@@ -303,7 +303,7 @@
         xaxis: { 
             categories: ["SAT", "SUN", "MON", "TUE", "WED", "Jun", "THU", "FRI"] 
         },
-        colors: ["#4FCB8D", "#1765FD", "#5C31D6", "#FEC107"],
+        colors: ["#000000", "#EABD04", "#5C31D6", "#FEC107"],
         legend: { position: "top"},
         fill: { opacity: 1 },
     },

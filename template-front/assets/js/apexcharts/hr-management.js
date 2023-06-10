@@ -18,8 +18,8 @@
             "Lesson Discuss"
         ], 
         colors: [
-            "#4FCB8D", 
-            "#1765FD", 
+            "#000000", 
+            "#EABD04", 
             "#FEC107",
         ], 
         legend: { 
@@ -49,7 +49,7 @@
             enabled: false
           }
         },
-        colors: ["#4FCB8D", "#1765FD"],
+        colors: ["#000000", "#EABD04"],
         series: [{
           data: [{
                 x: new Date(15388452e5),
@@ -132,8 +132,8 @@
         plotOptions: {
             candlestick: {
                     colors: {
-                    upward: '#4FCB8D',
-                    downward: '#1765FD'
+                    upward: '#000000',
+                    downward: '#EABD04'
                 }
             }
         },

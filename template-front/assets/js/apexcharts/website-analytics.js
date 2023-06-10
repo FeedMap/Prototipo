@@ -13,7 +13,7 @@
             } 
         },
         colors: [
-            "#1765fd", 
+            "#EABD04", 
             "#bbc6cf"
         ],
         dataLabels: { 
@@ -94,10 +94,10 @@
             "Organic Search"
         ], 
         colors: [
-            "#4FCB8D", 
+            "#000000", 
             "#5C31D6", 
             "#FEC107",
-            "#1765FD", 
+            "#EABD04", 
         ], 
         legend: { 
             show: !1 
@@ -173,8 +173,8 @@
             lineCap: "round" 
         },
         colors: [
-            "#4FCB8D", 
-            "#1765FD", 
+            "#000000", 
+            "#EABD04", 
             "#FEC107"
         ],
         labels: [
@@ -213,7 +213,7 @@
             lineCap: "round" 
         },
         colors: [
-            "#4FCB8D"
+            "#000000"
         ],
         fill: { 
             type: "gradient", 
@@ -265,7 +265,7 @@
             lineCap: "round" 
         },
         colors: [
-            "#1765FD"
+            "#EABD04"
         ],
         fill: { 
             type: "gradient", 
@@ -421,7 +421,7 @@
             lineCap: "round" 
         },
         colors: [
-            "#4FCB8D"
+            "#000000"
         ],
         fill: { 
             type: "gradient", 
@@ -514,7 +514,7 @@
             enabled: false
           }
         },
-        colors: ["#4FCB8D", "#1765FD"],
+        colors: ["#000000", "#EABD04"],
         series: [{
           data: [{
                 x: new Date(15388452e5),
@@ -597,8 +597,8 @@
         plotOptions: {
             candlestick: {
                     colors: {
-                    upward: '#4FCB8D',
-                    downward: '#1765FD'
+                    upward: '#000000',
+                    downward: '#EABD04'
                 }
             }
         }

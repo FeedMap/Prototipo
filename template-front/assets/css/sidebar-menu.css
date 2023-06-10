@@ -45,7 +45,7 @@ Sidebar Menu Style
   left: 0;
   width: 50px;
   height: 50px;
-  background-image: linear-gradient(to bottom, #1765fd, #4fcb8d);
+  background-image: linear-gradient(to bottom, #EABD04, #000000);
   z-index: -1;
   border-radius: 20px;
   transition: all ease 0.5s;
@@ -64,7 +64,7 @@ Sidebar Menu Style
   opacity: 1;
 }
 .sidebar-menu .first-menu .list-group-item.active .list-group-item.active a {
-  color: #4fcb8d;
+  color: #000000;
 }
 .sidebar-menu .first-menu:hover {
   width: 110px;
@@ -97,7 +97,7 @@ Sidebar Menu Style
   color: #292d32;
 }
 .sidebar-menu .submenu .list-group-item a.active {
-  color: #4fcb8d;
+  color: #000000;
 }
 .sidebar-menu .submenu li:hover .sub-submenu {
   visibility: visible;
@@ -124,7 +124,7 @@ Sidebar Menu Style
   color: #292d32;
 }
 .sidebar-menu .sub-submenu .list-group-item a.active {
-  color: #4fcb8d;
+  color: #000000;
 }
 .sidebar-menu .sub-submenu .list-group-item:hover {
   background-color: transparent;
@@ -219,7 +219,7 @@ Sidebar Menu Style Two Area
   left: 0;
   width: 50px;
   height: 50px;
-  background-image: linear-gradient(to bottom, #1765fd, #4fcb8d);
+  background-image: linear-gradient(to bottom, #EABD04, #000000);
   z-index: -1;
   border-radius: 20px;
   transition: all ease 0.5s;
@@ -265,17 +265,17 @@ Sidebar Menu Style Two Area
   opacity: 1;
 }
 .side-menu-area .sidebar-nav .metismenu li.mm-active .active {
-  color: #4fcb8d;
+  color: #000000;
   position: relative;
 }
 .side-menu-area .sidebar-nav .metismenu li.mm-active .active a span {
-  color: #4fcb8d;
+  color: #000000;
 }
 .side-menu-area .sidebar-nav .metismenu li .mm-collapse li a {
   display: block;
 }
 .side-menu-area .sidebar-nav .metismenu li .mm-collapse li a:hover {
-  color: #4fcb8d;
+  color: #000000;
 }
 .side-menu-area .sidebar-nav .metismenu li .has-arrow {
   font-size: 15px;
@@ -321,7 +321,7 @@ Sidebar Menu Style Two Area
   right: 0;
   width: 5px;
   height: 100%;
-  background-image: linear-gradient(to bottom, #1765FD, #4FCB8D);
+  background-image: linear-gradient(to bottom, #EABD04, #000000);
   border-radius: 8px;
 }
 

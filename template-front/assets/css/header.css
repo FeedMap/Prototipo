@@ -63,7 +63,7 @@ Header Content Content Style
   margin-right: 175px;
 }
 .header-area.header-style-three .header-content-wrapper {
-  background: transparent linear-gradient(93deg, #1765FD 0%, #4FCB8D 100%) 0% 0% no-repeat padding-box;
+  background: transparent linear-gradient(93deg, #EABD04 0%, #000000 100%) 0% 0% no-repeat padding-box;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.0196078431);
 }
 .header-area.header-style-three .header-content-wrapper .header-left-content .main-logo {
@@ -141,7 +141,7 @@ Header Content Content Style
   color: #67748e;
 }
 .header-left-content .search-bar .form-control:focus {
-  border-color: #4fcb8d;
+  border-color: #000000;
 }
 .header-left-content .search-bar img {
   position: absolute;
@@ -201,14 +201,14 @@ Header Content Content Style
   padding-left: 15px;
 }
 .header-left-content .for-mobile-devices.option-item .search-overlay.search-popup .search-form .search-input:focus {
-  border-color: #4fcb8d;
+  border-color: #000000;
 }
 .header-left-content .for-mobile-devices.option-item .search-overlay.search-popup .search-form .search-button {
   position: absolute;
   right: 0;
   top: 0;
   height: 50px;
-  background: #4fcb8d;
+  background: #000000;
   border: none;
   width: 50px;
   outline: 0;
@@ -228,7 +228,7 @@ Header Content Content Style
   display: inline-block;
 }
 .header-left-content .for-mobile-devices.option-item .search-btn:hover {
-  color: #4fcb8d;
+  color: #000000;
 }
 .header-left-content .for-mobile-devices.option-item .close-btn {
   cursor: pointer;
@@ -239,11 +239,11 @@ Header Content Content Style
   font-size: 21px;
 }
 .header-left-content .for-mobile-devices.option-item .close-btn:hover {
-  color: #4fcb8d;
+  color: #000000;
 }
 .header-left-content .for-mobile-devices.option-item .close-btn.active {
   display: block;
-  color: #4fcb8d;
+  color: #000000;
 }
 
 .header-right-content {
@@ -267,7 +267,7 @@ Header Content Content Style
   transition: all ease 0.5s;
 }
 .header-right-content .header-right-option .dropdown-item.fullscreen-btn:hover i {
-  color: #4fcb8d;
+  color: #000000;
 }
 .header-right-content .header-right-option .dropdown-item.fullscreen-btn.active {
   position: relative;
@@ -311,7 +311,7 @@ Header Content Content Style
   font-size: 10px;
   padding: 0;
   text-align: center;
-  background-color: #4fcb8d;
+  background-color: #000000;
 }
 .header-right-content .header-right-option.apps-option .dropdown-menu {
   width: 350px;
@@ -416,7 +416,7 @@ Header Content Content Style
 }
 .header-right-content .header-right-option.notification-option .dropdown-menu .dropdown-header {
   border-radius: 10px 10px 0 0;
-  background-color: #4fcb8d;
+  background-color: #000000;
   color: #ffffff;
   padding-left: 15px;
   padding-right: 15px;
@@ -445,7 +445,7 @@ Header Content Content Style
   position: relative;
   background: #f7f7f7;
   text-align: center;
-  color: #4fcb8d;
+  color: #000000;
   transition: all ease 0.5s;
 }
 .header-right-content .header-right-option.notification-option .dropdown-menu .dropdown-wrap .dropdown-item .icon i {
@@ -469,7 +469,7 @@ Header Content Content Style
   color: #686868;
 }
 .header-right-content .header-right-option.notification-option .dropdown-menu .dropdown-wrap .dropdown-item:hover .icon {
-  background-color: #4fcb8d;
+  background-color: #000000;
   color: #ffffff;
 }
 .header-right-content .header-right-option.notification-option .dropdown-menu .dropdown-wrap .dropdown-item:nth-child(2) .icon {
@@ -510,7 +510,7 @@ Header Content Content Style
   border-top: 1px solid #eeeeee;
 }
 .header-right-content .header-right-option.notification-option .dropdown-menu .dropdown-footer .dropdown-item {
-  color: #4fcb8d !important;
+  color: #000000 !important;
   padding: 0;
   position: relative;
   display: inline-block;
@@ -595,10 +595,10 @@ Header Content Content Style
   font-size: 13px !important;
 }
 .header-right-content .header-right-option.profile-nav-item.dropdown .dropdown-menu .dropdown-wrap .profile-nav .nav-item .nav-link:hover {
-  color: #4fcb8d;
+  color: #000000;
 }
 .header-right-content .header-right-option.profile-nav-item.dropdown .dropdown-menu .dropdown-wrap .profile-nav .nav-item .nav-link:hover i {
-  color: #4fcb8d;
+  color: #000000;
 }
 .header-right-content .header-right-option.profile-nav-item.dropdown .dropdown-menu .dropdown-wrap .profile-nav .nav-item .dropdown-item {
   color: #292d32;
@@ -611,10 +611,10 @@ Header Content Content Style
   background-color: #f8f9fa;
 }
 .header-right-content .header-right-option.profile-nav-item.dropdown .dropdown-menu .dropdown-wrap .profile-nav .nav-item .dropdown-item:hover {
-  color: #4fcb8d;
+  color: #000000;
 }
 .header-right-content .header-right-option.profile-nav-item.dropdown .dropdown-menu .dropdown-wrap .profile-nav .nav-item .dropdown-item:hover i {
-  color: #4fcb8d;
+  color: #000000;
 }
 .header-right-content .header-right-option.profile-nav-item.dropdown .dropdown-menu .dropdown-footer {
   margin: 10px -15px 0;
@@ -631,14 +631,14 @@ Header Content Content Style
   margin-left: 0;
 }
 .header-right-content .header-right-option.profile-nav-item.dropdown .dropdown-menu .dropdown-footer .nav-item .nav-link {
-  color: #4fcb8d;
+  color: #000000;
   padding: 5px 15px 5px 38px;
   position: relative;
   font-size: 13px;
   font-weight: 500;
 }
 .header-right-content .header-right-option.profile-nav-item.dropdown .dropdown-menu .dropdown-footer .nav-item .nav-link i {
-  color: #4fcb8d;
+  color: #000000;
   transition: all ease 0.5s;
   position: absolute;
   left: 15px;
